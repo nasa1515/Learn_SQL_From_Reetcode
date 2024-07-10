@@ -3,6 +3,9 @@
 [![Watch on GitHub](https://img.shields.io/github/watchers/nasa1515/Learn_SQL_From_Reetcode.svg?style=social)](https://github.com/nasa1515/Learn_SQL_From_Reetcode/watchers)
 [![Star on GitHub](https://img.shields.io/github/stars/nasa1515/Learn_SQL_From_Reetcode.svg?style=social)](https://github.com/nasa1515/Learn_SQL_From_Reetcode/stargazers)
 [![Fork on GitHub](https://img.shields.io/github/forks/nasa1515/Learn_SQL_From_Reetcode.svg?style=social)](https://github.com/nasa1515/Learn_SQL_From_Reetcode/network/members)
+
+----
+
 [![Fork on GitHub](https://img.shields.io/github/followers/nasa1515.svg?style=social)](https://github.com/nasa1515/Learn_SQL_From_Reetcode/network/members)
 
 
@@ -12,9 +15,9 @@
 * 기초 베이스부터 다지기 위해서 쌩 Base를 기반으로 작성하는 대피소 입니다.
 * 단순히 답만 띡 던져놓는 방식이 아닌, 각 문제 별 MD로 풀이를 정리합니다.
 
-### 시작일 : 2024.07.05 
-----
+### 시작일 : 2024.07.09 / 목표 하루에 10 문제 풀고 정리하기
 
+* (현황) - 2024.07.10 (22문제)
 ## 🥗 Easy
 
 <details>
