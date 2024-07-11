@@ -47,7 +47,7 @@
 </details>
 
 <details>
-    <summary> 🚀[WHERE TYPE] LIST</summary>
+    <summary> 🪛[WHERE TYPE] LIST</summary>
   
   * [196. Delete Duplicate Emails](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Where%20Type/EASY/196.%20Delete%20Duplicate%20Emails.md)  
   * [584. Find Customer Referee](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Where%20Type/EASY/584.%20Find%20Customer%20Referee.md)  
@@ -60,7 +60,7 @@
 
 
 <details>
-    <summary> 🚀[JOIN TYPE] LIST</summary>
+    <summary> 🏄🏿[JOIN TYPE] LIST</summary>
   
   * [175. Combine Two Tables](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Join%20Type/EASY/175.%20Combine%20Two%20Tables.md)  
   * [181. Employees Earning More Than Their Managers](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Join%20Type/EASY/181.%20Employees%20Earning%20More%20Than%20Their%20Managers.md)  
@@ -73,6 +73,13 @@
   * [1280. Students and Examinations](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Join%20Type/EASY/1280.%20Students%20and%20Examinations.md) 
   * [1327. List the Products Ordered in a Period](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Join%20Type/EASY/1327.%20List%20the%20Products%20Ordered%20in%20a%20Period.md) 
   * [1378. Replace Employee ID With The Unique Identifier](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Join%20Type/EASY/1378.%20Replace%20Employee%20ID%20With%20The%20Unique%20Identifier.md) 
+
+<details>
+    <summary> 🔧[REGEXP TYPE] LIST</summary>
+  
+  * [1517. Find Users With Valid E-Mails]()  
+  
+</details>
 
 
 </details>
