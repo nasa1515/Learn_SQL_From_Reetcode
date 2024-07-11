@@ -26,6 +26,9 @@
   * [610. Triangle Judgement](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Case%20when%20Type/EASY/610.%20Triangle%20Judgement.md)  
   * [627. Swap Salary](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Case%20when%20Type/EASY/627.%20Swap%20Salary.md)   
 
+
+  * [++1179. Reformat Department Table]() 
+
   
 </details>
 
@@ -39,6 +42,12 @@
   * [596. Classes More Than 5 Students](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Groupby%20Type/EASY/596.%20Classes%20More%20Than%205%20Students.md)
   * [619. Biggest Single Number](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Groupby%20Type/EASY/619.%20Biggest%20Single%20Number.md)  
   * [1050. Actors and Directors Who Cooperated At Least Three Times](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Groupby%20Type/EASY/1050.%20Actors%20and%20Directors%20Who%20Cooperated%20At%20Least%20Three%20Times.md)  
+
+
+  * [++1084. Sales Analysis III]()  
+  * [++1141. User Activity for the Past 30 Days I]() 
+  * [++1211. Queries Quality and Percentage]() 
+
 
 </details>
 
@@ -65,4 +74,12 @@
   * [577. Employee Bonus](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Join%20Type/EASY/577.%20Employee%20Bonus.md)  
   * [607. Sales Person](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Join%20Type/EASY/607.%20Sales%20Person.md)  
   
+  * [++1075. Project Employees I]()  
+  * [++1251. Average Selling Price]() 
+  * [++1378. Replace Employee ID With The Unique Identifier]() 
+  * [++1280. Students and Examinations]() 
+  * [++1327. List the Products Ordered in a Period]() 
+
+
+
 </details>
