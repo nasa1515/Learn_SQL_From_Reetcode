@@ -1,13 +1,9 @@
-# NASA1515의 LeetCode SQL 대피소
+# NASA1515의 LeetCode 기반의 SQL STORAGE
 
 [![Watch on GitHub](https://img.shields.io/github/watchers/nasa1515/Learn_SQL_From_Reetcode.svg?style=social)](https://github.com/nasa1515/Learn_SQL_From_Reetcode/watchers)
 [![Star on GitHub](https://img.shields.io/github/stars/nasa1515/Learn_SQL_From_Reetcode.svg?style=social)](https://github.com/nasa1515/Learn_SQL_From_Reetcode/stargazers)
 [![Fork on GitHub](https://img.shields.io/github/forks/nasa1515/Learn_SQL_From_Reetcode.svg?style=social)](https://github.com/nasa1515/Learn_SQL_From_Reetcode/network/members)
-
-----
-
 [![Fork on GitHub](https://img.shields.io/github/followers/nasa1515.svg?style=social)](https://github.com/nasa1515/Learn_SQL_From_Reetcode/network/members)
-
 
 <img src="./Resource/Reet_ReadMe.jpg" alt="이미지 설명" width="700" height="450"/>
 
@@ -25,9 +21,7 @@
   
   * [610. Triangle Judgement](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Case%20when%20Type/EASY/610.%20Triangle%20Judgement.md)  
   * [627. Swap Salary](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Case%20when%20Type/EASY/627.%20Swap%20Salary.md)   
-
-
-  * [++1179. Reformat Department Table]() 
+  * [1179. Reformat Department Table](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Case%20when%20Type/EASY/1179.%20Reformat%20Department%20Table.md) 
 
   
 </details>
@@ -42,11 +36,10 @@
   * [596. Classes More Than 5 Students](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Groupby%20Type/EASY/596.%20Classes%20More%20Than%205%20Students.md)
   * [619. Biggest Single Number](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Groupby%20Type/EASY/619.%20Biggest%20Single%20Number.md)  
   * [1050. Actors and Directors Who Cooperated At Least Three Times](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Groupby%20Type/EASY/1050.%20Actors%20and%20Directors%20Who%20Cooperated%20At%20Least%20Three%20Times.md)  
-
-
-  * [++1084. Sales Analysis III]()  
-  * [++1141. User Activity for the Past 30 Days I]() 
-  * [++1211. Queries Quality and Percentage]() 
+  * [1068. Product Sales Analysis I](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Join%20Type/EASY/1068.%20Product%20Sales%20Analysis%20I.md)  
+  * [1084. Sales Analysis III](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Groupby%20Type/EASY/1084.%20Sales%20Analysis%20III.md)  
+  * [1141. User Activity for the Past 30 Days I](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Groupby%20Type/EASY/1141.%20User%20Activity%20for%20the%20Past%2030%20Days%20I.md) 
+  * [1211. Queries Quality and Percentage](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Groupby%20Type/EASY/1211.%20Queries%20Quality%20and%20Percentage.md) 
 
 
 </details>
@@ -73,13 +66,11 @@
   * [197. Rising Temperature](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Join%20Type/EASY/197.%20Rising%20Temperature.md)  
   * [577. Employee Bonus](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Join%20Type/EASY/577.%20Employee%20Bonus.md)  
   * [607. Sales Person](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Join%20Type/EASY/607.%20Sales%20Person.md)  
-  
-  * [++1075. Project Employees I]()  
-  * [++1251. Average Selling Price]() 
-  * [++1378. Replace Employee ID With The Unique Identifier]() 
-  * [++1280. Students and Examinations]() 
-  * [++1327. List the Products Ordered in a Period]() 
-
+  * [1075. Project Employees I](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Join%20Type/EASY/1075.%20Project%20Employees%20I.md)  
+  * [1251. Average Selling Price](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Join%20Type/EASY/1251.%20Average%20Selling%20Price.md) 
+  * [1280. Students and Examinations](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Join%20Type/EASY/1280.%20Students%20and%20Examinations.md) 
+  * [1327. List the Products Ordered in a Period](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Join%20Type/EASY/1327.%20List%20the%20Products%20Ordered%20in%20a%20Period.md) 
+  * [1378. Replace Employee ID With The Unique Identifier](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Join%20Type/EASY/1378.%20Replace%20Employee%20ID%20With%20The%20Unique%20Identifier.md) 
 
 
 </details>
