@@ -11,17 +11,22 @@
 * 기초 베이스부터 다지기 위해서 쌩 Base를 기반으로 작성하는 대피소 입니다.
 * 단순히 답만 띡 던져놓는 방식이 아닌, 각 문제 별 MD로 풀이를 정리합니다.
 
-### 시작일 : 2024.07.09 / 목표 하루에 10 문제 풀고 정리하기
+### Start_Date : 2024.07.09
+#### Goal : 적어도 하루에 한문제의 SQL 문제를 풀고 정리하기
 
-* (현황) - 2024.07.10 (22문제)
-* (현황) - 2024.07.11 (32문제) + 10
+### HISTORY
+|Date|solved|increase|
+|----|------|--------|
+|2024.07.10|solved 22| +10|
+|2024.07.11|solved 32| +10|
+|2024.07.12|solved 42| +10|
 
 ## 🥗 Easy
 
 <details>
     <summary> 🚗[FUNCTION TYPE] LIST</summary>
   
-  * [1667. Fix Names in a Table]()  
+  * [1667. Fix Names in a Table](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Function%20Type/EASY/1667.%20Fix%20Names%20in%20a%20Table.md)  
 
   
 </details>
@@ -51,11 +56,8 @@
   * [1084. Sales Analysis III](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Groupby%20Type/EASY/1084.%20Sales%20Analysis%20III.md)  
   * [1141. User Activity for the Past 30 Days I](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Groupby%20Type/EASY/1141.%20User%20Activity%20for%20the%20Past%2030%20Days%20I.md) 
   * [1211. Queries Quality and Percentage](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Groupby%20Type/EASY/1211.%20Queries%20Quality%20and%20Percentage.md) 
-
-
-  * [1484. Group Sold Products By The Date]() 
-  * [1587. Bank Account Summary II]() 
-  * [1633. Percentage of Users Attended a Contest]() 
+  * [1484. Group Sold Products By The Date](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Groupby%20Type/EASY/1484.%20Group%20Sold%20Products%20By%20The%20Date.md) 
+  * [1633. Percentage of Users Attended a Contest](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Groupby%20Type/EASY/1633.%20Percentage%20of%20Users%20Attended%20a%20Contest.md) 
 
 </details>
 
@@ -87,15 +89,16 @@
   * [1327. List the Products Ordered in a Period](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Join%20Type/EASY/1327.%20List%20the%20Products%20Ordered%20in%20a%20Period.md) 
   * [1378. Replace Employee ID With The Unique Identifier](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Join%20Type/EASY/1378.%20Replace%20Employee%20ID%20With%20The%20Unique%20Identifier.md) 
 
-  * [1407. Top Travellers]() 
-  * [1581. Customer Who Visited but Did Not Make Any Transactions]() 
-  * [1661. Average Time of Process per Machine]() 
+  * [1407. Top Travellers](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Join%20Type/EASY/1407.%20Top%20Travellers.md) 
+  * [1581. Customer Who Visited but Did Not Make Any Transactions](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Join%20Type/EASY/1581.%20Customer%20Who%20Visited%20but%20Did%20Not%20Make%20Any%20Transactions.md) 
+  * [1587. Bank Account Summary II](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Join%20Type/EASY/1587.%20Bank%20Account%20Summary%20II.md) 
+  * [1661. Average Time of Process per Machine](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Join%20Type/EASY/1661.%20Average%20Time%20of%20Process%20per%20Machine.md) 
 
 <details>
     <summary> 🔧[REGEXP TYPE] LIST</summary>
   
-  * [1517. Find Users With Valid E-Mails]()  
-  * [1527. Patients With a Condition]()  
+  * [1517. Find Users With Valid E-Mails](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20REGEXP%20Type/EASY/1517.%20Find%20Users%20With%20Valid%20E-Mails.md)  
+  * [1527. Patients With a Condition](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20REGEXP%20Type/EASY/1527.%20Patients%20With%20a%20Condition.md)  
 
 
 </details>
