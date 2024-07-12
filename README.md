@@ -19,6 +19,15 @@
 ## 🥗 Easy
 
 <details>
+    <summary> 🚗[FUNCTION TYPE] LIST</summary>
+  
+  * [1667. Fix Names in a Table]()  
+
+  
+</details>
+
+
+<details>
     <summary> 🚗[CASE WHEN TYPE] LIST</summary>
   
   * [610. Triangle Judgement](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Case%20when%20Type/EASY/610.%20Triangle%20Judgement.md)  
@@ -43,6 +52,10 @@
   * [1141. User Activity for the Past 30 Days I](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Groupby%20Type/EASY/1141.%20User%20Activity%20for%20the%20Past%2030%20Days%20I.md) 
   * [1211. Queries Quality and Percentage](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Groupby%20Type/EASY/1211.%20Queries%20Quality%20and%20Percentage.md) 
 
+
+  * [1484. Group Sold Products By The Date]() 
+  * [1587. Bank Account Summary II]() 
+  * [1633. Percentage of Users Attended a Contest]() 
 
 </details>
 
@@ -74,11 +87,17 @@
   * [1327. List the Products Ordered in a Period](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Join%20Type/EASY/1327.%20List%20the%20Products%20Ordered%20in%20a%20Period.md) 
   * [1378. Replace Employee ID With The Unique Identifier](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Join%20Type/EASY/1378.%20Replace%20Employee%20ID%20With%20The%20Unique%20Identifier.md) 
 
+  * [1407. Top Travellers]() 
+  * [1581. Customer Who Visited but Did Not Make Any Transactions]() 
+  * [1661. Average Time of Process per Machine]() 
+
 <details>
     <summary> 🔧[REGEXP TYPE] LIST</summary>
   
   * [1517. Find Users With Valid E-Mails]()  
-  
+  * [1527. Patients With a Condition]()  
+
+
 </details>
 
 
