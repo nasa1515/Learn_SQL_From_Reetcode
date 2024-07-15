@@ -32,6 +32,7 @@
   
   * [1667. Fix Names in a Table](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Function%20Type/EASY/1667.%20Fix%20Names%20in%20a%20Table.md)  
 
+  * [1795. Rearrange Products Table]()
   
 </details>
 
@@ -43,6 +44,7 @@
   * [627. Swap Salary](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Case%20when%20Type/EASY/627.%20Swap%20Salary.md)   
   * [1179. Reformat Department Table](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Case%20when%20Type/EASY/1179.%20Reformat%20Department%20Table.md) 
 
+  * [1873. Calculate Special Bonus]()
   
 </details>
 
@@ -63,6 +65,10 @@
   * [1484. Group Sold Products By The Date](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Groupby%20Type/EASY/1484.%20Group%20Sold%20Products%20By%20The%20Date.md) 
   * [1633. Percentage of Users Attended a Contest](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Groupby%20Type/EASY/1633.%20Percentage%20of%20Users%20Attended%20a%20Contest.md) 
 
+  * [1693. Daily Leads and Partners]() 
+  * [1729. Find Followers Count]() 
+  * [1741. Find Total Time Spent by Each Employee]() 
+
 </details>
 
 <details>
@@ -74,6 +80,8 @@
   * [620. Not Boring Movies](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Where%20Type/EASY/620.%20Not%20Boring%20Movies.md)  
   * [1148. Article Views I](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Where%20Type/EASY/1148.%20Article%20Views%20I.md)  
   * [1683. Invalid Tweets](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Where%20Type/EASY/1683.%20Invalid%20Tweets.md)  
+
+  * [1890. The Latest Login in 2020]()
 
 </details>
 
@@ -98,12 +106,23 @@
   * [1587. Bank Account Summary II](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Join%20Type/EASY/1587.%20Bank%20Account%20Summary%20II.md) 
   * [1661. Average Time of Process per Machine](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Join%20Type/EASY/1661.%20Average%20Time%20of%20Process%20per%20Machine.md) 
 
+  * [1731. The Number of Employees Which Report to Each Employee]()
+
 <details>
     <summary> 🔧[REGEXP TYPE] LIST</summary>
   
   * [1517. Find Users With Valid E-Mails](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20REGEXP%20Type/EASY/1517.%20Find%20Users%20With%20Valid%20E-Mails.md)  
   * [1527. Patients With a Condition](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20REGEXP%20Type/EASY/1527.%20Patients%20With%20a%20Condition.md)  
 
+
+</details>
+
+
+<details>
+    <summary> 🔧[SUBQUERY TYPE] LIST</summary>
+  
+  * [1789. Primary Department for Each Employee]()  
+  * [1965. Employees With Missing Information]()  
 
 </details>
 
