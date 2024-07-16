@@ -26,10 +26,10 @@
 |2024.07.12|solved 42| +10|
 |2024.07.15|solved 52| +10|
 
-## 🥗 Easy
+## 🟩 Easy
 
 <details>
-    <summary> 🚗[FUNCTION TYPE] LIST</summary>
+    <summary> ⚙️ [FUNCTION TYPE] LIST</summary>
   
   * [1667. Fix Names in a Table](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Function%20Type/EASY/1667.%20Fix%20Names%20in%20a%20Table.md)  
   * [1795. Rearrange Products Table](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Function%20Type/EASY/1795.%20Rearrange%20Products%20Table.md)
@@ -38,7 +38,7 @@
 
 
 <details>
-    <summary> 🚗[CASE WHEN TYPE] LIST</summary>
+    <summary> 📁 [CASE WHEN TYPE] LIST</summary>
   
   * [610. Triangle Judgement](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Case%20when%20Type/EASY/610.%20Triangle%20Judgement.md)  
   * [627. Swap Salary](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Case%20when%20Type/EASY/627.%20Swap%20Salary.md)   
@@ -49,7 +49,7 @@
 
 
 <details>
-    <summary> 🚀[GROUP BY TYPE] LIST</summary>
+    <summary> 🗳️ [GROUP BY TYPE] LIST</summary>
   
   * [182. Duplicate Emails](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Groupby%20Type/EASY/182.%20Duplicate%20Emails.md)  
   * [511. Game Play Analysis I](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Groupby%20Type/EASY/511.%20Game%20Play%20Analysis%20I.md)  
@@ -66,14 +66,12 @@
   * [1693. Daily Leads and Partners](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Groupby%20Type/EASY/1693.%20Daily%20Leads%20and%20Partners.md)  
   * [1729. Find Followers Count](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Groupby%20Type/EASY/1729.%20Find%20Followers%20Count.md)  
   * [1741. Find Total Time Spent by Each Employee](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Groupby%20Type/EASY/1741.%20Find%20Total%20Time%20Spent%20by%20Each%20Employee.md)  
-
-
-  * [2356. Number of Unique Subjects Taught by Each Teacher]()
+  * [2356. Number of Unique Subjects Taught by Each Teacher](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Groupby%20Type/EASY/2356.%20Number%20of%20Unique%20Subjects%20Taught%20by%20Each%20Teacher.md)
 
 </details>
 
 <details>
-    <summary> 🪛[WHERE TYPE] LIST</summary>
+    <summary> 🔍 [WHERE TYPE] LIST</summary>
   
   * [196. Delete Duplicate Emails](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Where%20Type/EASY/196.%20Delete%20Duplicate%20Emails.md)  
   * [584. Find Customer Referee](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Where%20Type/EASY/584.%20Find%20Customer%20Referee.md)  
@@ -87,7 +85,7 @@
 
 
 <details>
-    <summary> 🏄🏿[JOIN TYPE] LIST</summary>
+    <summary> ✂️ [JOIN TYPE] LIST</summary>
   
   * [175. Combine Two Tables](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Join%20Type/EASY/175.%20Combine%20Two%20Tables.md)  
   * [181. Employees Earning More Than Their Managers](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Join%20Type/EASY/181.%20Employees%20Earning%20More%20Than%20Their%20Managers.md)  
@@ -107,7 +105,7 @@
   * [1731. The Number of Employees Which Report to Each Employee](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Join%20Type/EASY/1731.%20The%20Number%20of%20Employees%20Which%20Report%20to%20Each%20Employee.md)
 
 <details>
-    <summary> 🔧[REGEXP TYPE] LIST</summary>
+    <summary> ✏️ [REGEXP TYPE] LIST</summary>
   
   * [1517. Find Users With Valid E-Mails](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20REGEXP%20Type/EASY/1517.%20Find%20Users%20With%20Valid%20E-Mails.md)  
   * [1527. Patients With a Condition](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20REGEXP%20Type/EASY/1527.%20Patients%20With%20a%20Condition.md)  
@@ -117,14 +115,24 @@
 
 
 <details>
-    <summary> 🔧[SUBQUERY TYPE] LIST</summary>
+    <summary> 🔏 [SUBQUERY TYPE] LIST</summary>
   
   * [1789. Primary Department for Each Employee](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20SubQuery%20Type/EASY/1789.%20Primary%20Department%20for%20Each%20Employee.md)  
   * [1965. Employees With Missing Information](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20SubQuery%20Type/EASY/1965.%20Employees%20With%20Missing%20Information.md)  
+  * [1978. Employees Whose Manager Left the Company](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20SubQuery%20Type/EASY/1978.%20Employees%20Whose%20Manager%20Left%20the%20Company.md)
 
-  * [1978. Employees Whose Manager Left the Company]()
-
+</details>
 </details>
 
 
+
+##   🟧 Midium
+
+<details>
+    <summary> ddLIST</summary>
+  
+  * [1667. Fix Names in a Table](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Function%20Type/EASY/1667.%20Fix%20Names%20in%20a%20Table.md)  
+
+  
 </details>
+
