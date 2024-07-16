@@ -25,6 +25,7 @@
 |2024.07.11|solved 32| +10|
 |2024.07.12|solved 42| +10|
 |2024.07.15|solved 52| +10|
+|2024.07.16|solved 60| +8|
 
 ## 🟩 Easy
 
@@ -132,9 +133,9 @@
 <details>
     <summary> ⚙️ [FUNCTION TYPE] LIST</summary>
   
-  * [178. Rank Scores]()  
-  * [180. Consecutive Numbers]()
-  * [184. Department Highest Salary]()
+  * [178. Rank Scores](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Function%20Type/MEDIUM/178.%20Rank%20Scores.md)  
+  * [180. Consecutive Numbers](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Function%20Type/MEDIUM/180.%20Consecutive%20Numbers.md)
+  * [184. Department Highest Salary](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Function%20Type/MEDIUM/184.%20Department%20Highest%20Salary.md)
 
 </details>
 
@@ -142,8 +143,8 @@
 <details>
     <summary> 🔍 [WHERE TYPE] LIST</summary>
   
-  * [1667. Fix Names in a Table]()  
-  * [550. Game Play Analysis IV]()
+  * [176. Second Highest Salary](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Where%20Type/MEDIUM/176.%20Second%20Highest%20Salary.md)  
+  * [550. Game Play Analysis IV](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Where%20Type/MEDIUM/550.%20Game%20Play%20Analysis%20IV.md)
   
 </details>
 
@@ -151,7 +152,7 @@
 <details>
     <summary> ✂️ [JOIN TYPE] LIST</summary>
   
-  * [570. Managers with at Least 5 Direct Reports]()
+  * [570. Managers with at Least 5 Direct Reports](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Join%20Type/MEDIUM/570.%20Managers%20with%20at%20Least%205%20Direct%20Reports.md)
 
 </details>
 
