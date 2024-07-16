@@ -128,11 +128,30 @@
 
 ##   🟧 Midium
 
-<details>
-    <summary> ddLIST</summary>
-  
-  * [1667. Fix Names in a Table](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Function%20Type/EASY/1667.%20Fix%20Names%20in%20a%20Table.md)  
 
+<details>
+    <summary> ⚙️ [FUNCTION TYPE] LIST</summary>
   
+  * [178. Rank Scores]()  
+  * [180. Consecutive Numbers]()
+  * [184. Department Highest Salary]()
+
+</details>
+
+
+<details>
+    <summary> 🔍 [WHERE TYPE] LIST</summary>
+  
+  * [1667. Fix Names in a Table]()  
+  * [550. Game Play Analysis IV]()
+  
+</details>
+
+
+<details>
+    <summary> ✂️ [JOIN TYPE] LIST</summary>
+  
+  * [570. Managers with at Least 5 Direct Reports]()
+
 </details>
 
