@@ -67,6 +67,9 @@
   * [1729. Find Followers Count](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Groupby%20Type/EASY/1729.%20Find%20Followers%20Count.md)  
   * [1741. Find Total Time Spent by Each Employee](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Groupby%20Type/EASY/1741.%20Find%20Total%20Time%20Spent%20by%20Each%20Employee.md)  
 
+
+  * [2356. Number of Unique Subjects Taught by Each Teacher]()
+
 </details>
 
 <details>
@@ -118,6 +121,8 @@
   
   * [1789. Primary Department for Each Employee](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20SubQuery%20Type/EASY/1789.%20Primary%20Department%20for%20Each%20Employee.md)  
   * [1965. Employees With Missing Information](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20SubQuery%20Type/EASY/1965.%20Employees%20With%20Missing%20Information.md)  
+
+  * [1978. Employees Whose Manager Left the Company]()
 
 </details>
 
