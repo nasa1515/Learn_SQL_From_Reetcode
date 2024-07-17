@@ -26,6 +26,8 @@
 |2024.07.12|solved 42| +10|
 |2024.07.15|solved 52| +10|
 |2024.07.16|solved 60| +8|
+|2024.07.17|solved 70| +10|
+
 
 ## 🟩 Easy
 
@@ -136,8 +138,7 @@
   * [178. Rank Scores](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Function%20Type/MEDIUM/178.%20Rank%20Scores.md)  
   * [180. Consecutive Numbers](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Function%20Type/MEDIUM/180.%20Consecutive%20Numbers.md)
   * [184. Department Highest Salary](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Function%20Type/MEDIUM/184.%20Department%20Highest%20Salary.md)
-
-  * [626. Exchange Seats]()
+  * [626. Exchange Seats](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Function%20Type/MEDIUM/626.%20Exchange%20Seats.md)
 
 
 </details>
@@ -146,7 +147,7 @@
 <details>
     <summary> 📁 [CASE WHEN TYPE] LIST</summary>
   
-  * [608. Tree Node]()  
+  * [608. Tree Node](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Case%20when%20Type/MEDIUM/608.%20Tree%20Node.md)  
 
 </details>
 
@@ -155,8 +156,8 @@
 <details>
     <summary> 🗳️ [GROUP BY TYPE] LIST</summary>
 
-  * [1045. Customers Who Bought All Products]()
-  * [1193. Monthly Transactions I]()
+  * [1045. Customers Who Bought All Products](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Groupby%20Type/MEDIUM/1045.%20Customers%20Who%20Bought%20All%20Products.md)
+  * [1193. Monthly Transactions I](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Groupby%20Type/MEDIUM/1193.%20Monthly%20Transactions%20I.md)
 
 
 </details>
@@ -167,8 +168,7 @@
   
   * [176. Second Highest Salary](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Where%20Type/MEDIUM/176.%20Second%20Highest%20Salary.md)  
   * [550. Game Play Analysis IV](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Where%20Type/MEDIUM/550.%20Game%20Play%20Analysis%20IV.md)
-  
-  * [1174. Immediate Food Delivery II]()
+  * [1174. Immediate Food Delivery II](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Where%20Type/MEDIUM/1174.%20Immediate%20Food%20Delivery%20II.md)
 
 
 </details>
@@ -177,9 +177,8 @@
 <details>
     <summary> ✂️ [JOIN TYPE] LIST</summary>
   
-  * [570. Managers with at Least 5 Direct Reports](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Join%20Type/MEDIUM/570.%20Managers%20with%20at%20Least%205%20Direct%20Reports.md)
-
-  * [1158. Market Analysis I]()
+  * [570. Managers with at Least 5 Direct Reports](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Join%20Type/MEDIUM/570.%20Managers%20with%20at%20Least%205%20Direct%20Reports.md)  
+  * [1158. Market Analysis I](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Join%20Type/MEDIUM/1158.%20Market%20Analysis%20I.md)
 
 </details>
 
@@ -187,16 +186,16 @@
 <details>
     <summary> 🔏 [SUBQUERY TYPE] LIST</summary>
   
-  * [585. Investments in 2016]()  
-  * [1070. Product Sales Analysis III]()
+  * [585. Investments in 2016](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20SubQuery%20Type/MEDIUM/585.%20Investments%20in%202016.md)  
+  * [1070. Product Sales Analysis III](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20SubQuery%20Type/MEDIUM/1070.%20Product%20Sales%20Analysis%20III.md)
 
 </details>
 
 <details>
     <summary> ➕ [CTE TYPE] LIST</summary>
   
-  * [602. Friend Requests II: Who Has the Most Friends]()  
-  * [1164. Product Price at a Given Date]()
+  * [602. Friend Requests II: Who Has the Most Friends](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20CTE%20Type/MEDIUM/602.%20Friend%20Requests%20II%3A%20Who%20Has%20the%20Most%20Friends.md)   
+  * [1164. Product Price at a Given Date](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20CTE%20Type/MEDIUM/1164.%20Product%20Price%20at%20a%20Given%20Date.md)
 
 
 </details>
