@@ -137,6 +137,28 @@
   * [180. Consecutive Numbers](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Function%20Type/MEDIUM/180.%20Consecutive%20Numbers.md)
   * [184. Department Highest Salary](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Function%20Type/MEDIUM/184.%20Department%20Highest%20Salary.md)
 
+  * [626. Exchange Seats]()
+
+
+</details>
+
+
+<details>
+    <summary> 📁 [CASE WHEN TYPE] LIST</summary>
+  
+  * [608. Tree Node]()  
+
+</details>
+
+
+
+<details>
+    <summary> 🗳️ [GROUP BY TYPE] LIST</summary>
+
+  * [1045. Customers Who Bought All Products]()
+  * [1193. Monthly Transactions I]()
+
+
 </details>
 
 
@@ -146,6 +168,9 @@
   * [176. Second Highest Salary](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Where%20Type/MEDIUM/176.%20Second%20Highest%20Salary.md)  
   * [550. Game Play Analysis IV](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Where%20Type/MEDIUM/550.%20Game%20Play%20Analysis%20IV.md)
   
+  * [1174. Immediate Food Delivery II]()
+
+
 </details>
 
 
@@ -154,5 +179,24 @@
   
   * [570. Managers with at Least 5 Direct Reports](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Join%20Type/MEDIUM/570.%20Managers%20with%20at%20Least%205%20Direct%20Reports.md)
 
+  * [1158. Market Analysis I]()
+
 </details>
 
+
+<details>
+    <summary> 🔏 [SUBQUERY TYPE] LIST</summary>
+  
+  * [585. Investments in 2016]()  
+  * [1070. Product Sales Analysis III]()
+
+</details>
+
+<details>
+    <summary> ➕ [CTE TYPE] LIST</summary>
+  
+  * [602. Friend Requests II: Who Has the Most Friends]()  
+  * [1164. Product Price at a Given Date]()
+
+
+</details>
