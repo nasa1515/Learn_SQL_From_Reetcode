@@ -28,6 +28,7 @@
 |2024.07.16|solved 60| +8|
 |2024.07.17|solved 70| +10|
 |2024.07.18|solved 72| +2|
+|2024.07.19|solved 75| +3|
 
 
 
@@ -49,6 +50,7 @@
   * [627. Swap Salary](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Case%20when%20Type/EASY/627.%20Swap%20Salary.md)   
   * [1179. Reformat Department Table](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Case%20when%20Type/EASY/1179.%20Reformat%20Department%20Table.md) 
   * [1873. Calculate Special Bonus](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Case%20when%20Type/EASY/1873.%20Calculate%20Special%20Bonus.md)
+  * [1907. Count Salary Categories]()
   
 </details>
 
@@ -142,8 +144,7 @@
   * [184. Department Highest Salary](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Function%20Type/MEDIUM/184.%20Department%20Highest%20Salary.md)
   * [626. Exchange Seats](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Function%20Type/MEDIUM/626.%20Exchange%20Seats.md)  
   * [(WINDOW) 1321. Restaurant Growth](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Function%20Type/MEDIUM/1321.%20Restaurant%20Growth.md)  
-
-  * [(WINDOW) 1341. Movie Rating]()
+  * [(WINDOW) 1341. Movie Rating](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Function%20Type/MEDIUM/1341.%20Movie%20Rating.md)
 
 </details>
 
@@ -182,7 +183,8 @@
     <summary> ✂️ [JOIN TYPE] LIST</summary>
   
   * [570. Managers with at Least 5 Direct Reports](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Join%20Type/MEDIUM/570.%20Managers%20with%20at%20Least%205%20Direct%20Reports.md)  
-  * [1158. Market Analysis I](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Join%20Type/MEDIUM/1158.%20Market%20Analysis%20I.md)
+  * [1158. Market Analysis I](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Join%20Type/MEDIUM/1158.%20Market%20Analysis%20I.md)  
+  * [1393. Capital Gain-Loss]()
 
 </details>
 
