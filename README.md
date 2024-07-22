@@ -146,6 +146,8 @@
   * [(WINDOW) 1321. Restaurant Growth](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Function%20Type/MEDIUM/1321.%20Restaurant%20Growth.md)  
   * [(WINDOW) 1341. Movie Rating](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Function%20Type/MEDIUM/1341.%20Movie%20Rating.md)
 
+  * [(WINDOW) 1934. Confirmation Rate]()
+
 </details>
 
 
