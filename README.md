@@ -30,7 +30,7 @@
 |2024.07.18|solved 72| +2|
 |2024.07.19|solved 75| +3|
 |2024.07.22|solved 78| +3|
-|2024.07.22|solved 81| +3|
+|2024.07.23|solved 81| +3|
 
 
 
@@ -211,21 +211,21 @@
 </details>
 
 
-
 ##   🟥 HARD
 
 
 <details>
-    <summary> ⚙️ [FUNCTION TYPE] LIST</summary>
+    <summary> ⚙️ [FUNCTION TYPE] LIST</summary>  
 
-  * [185. Department Top Three Salaries]()
-  * [601. Human Traffic of Stadium]()
+  * [185. Department Top Three Salaries](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Function%20Type/HARD/185.%20Department%20Top%20Three%20Salaries.md)  
+  * [601. Human Traffic of Stadium](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Function%20Type/HARD/601.%20Human%20Traffic%20of%20Stadium.md)  
+
 <details>
 
 <details>
     <summary> 🔍 [WHERE TYPE] LIST</summary>
   
-  * [262. Trips and Users]()  
+  * [262. Trips and Users](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Where%20Type/HARD/262.%20Trips%20and%20Users.md)  
 
 
 </details>
