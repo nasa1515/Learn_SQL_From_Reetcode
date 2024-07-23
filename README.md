@@ -30,7 +30,7 @@
 |2024.07.18|solved 72| +2|
 |2024.07.19|solved 75| +3|
 |2024.07.22|solved 78| +3|
-|2024.07.22|solved 80| +2|
+|2024.07.22|solved 81| +3|
 
 
 
@@ -219,7 +219,7 @@
     <summary> ⚙️ [FUNCTION TYPE] LIST</summary>
 
   * [185. Department Top Three Salaries]()
-
+  * [601. Human Traffic of Stadium]()
 <details>
 
 <details>
