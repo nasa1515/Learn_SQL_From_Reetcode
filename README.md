@@ -29,7 +29,8 @@
 |2024.07.17|solved 70| +10|
 |2024.07.18|solved 72| +2|
 |2024.07.19|solved 75| +3|
-|2024.07.22|solved 77| +2|
+|2024.07.22|solved 78| +3|
+|2024.07.22|solved 80| +2|
 
 
 
@@ -156,7 +157,7 @@
   * [608. Tree Node](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Case%20when%20Type/MEDIUM/608.%20Tree%20Node.md)    
   * [1907. Count Salary Categories](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Case%20when%20Type/MEDIUM/1907.%20Count%20Salary%20Categories.md)  
   * [3220. Odd and Even Transactions](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Case%20when%20Type/MEDIUM/3220.%20Odd%20and%20Even%20Transactions.md)
-  
+
 </details>
 
 
@@ -208,3 +209,24 @@
 
 
 </details>
+
+
+
+##   🟥 HARD
+
+
+<details>
+    <summary> ⚙️ [FUNCTION TYPE] LIST</summary>
+
+  * [185. Department Top Three Salaries]()
+
+<details>
+
+<details>
+    <summary> 🔍 [WHERE TYPE] LIST</summary>
+  
+  * [262. Trips and Users]()  
+
+
+</details>
+
