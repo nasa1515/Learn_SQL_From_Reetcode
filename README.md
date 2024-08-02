@@ -32,7 +32,7 @@
 |2024.07.22|solved 78| +3|
 |2024.07.23|solved 81| +3|
 |2024.08.01|(프리미엄 결제) - solved 82| +1|
-
+|2024.08.02|solved 83| +1|
 
 
 ## 🟩 Easy
@@ -189,8 +189,9 @@
     <summary> ✂️ [JOIN TYPE] LIST</summary>
   
   * [570. Managers with at Least 5 Direct Reports](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Join%20Type/MEDIUM/570.%20Managers%20with%20at%20Least%205%20Direct%20Reports.md)  
+  * [574. Winning Candidate]()  
   * [1158. Market Analysis I](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Join%20Type/MEDIUM/1158.%20Market%20Analysis%20I.md)  
-  * [1393. Capital Gain-Loss](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Join%20Type/MEDIUM/1393.%20Capital%20Gain-Loss.md)
+  * [1393. Capital Gain-Loss](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Join%20Type/MEDIUM/1393.%20Capital%20Gain-Loss.md)  
 
 </details>
 
