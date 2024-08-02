@@ -32,7 +32,7 @@
 |2024.07.22|solved 78| +3|
 |2024.07.23|solved 81| +3|
 |2024.08.01|(프리미엄 결제) - solved 82| +1|
-|2024.08.02|solved 85| +3|
+|2024.08.02|solved 86| +4|
 
 
 ## 🟩 Easy
@@ -182,7 +182,7 @@
   
   * [176. Second Highest Salary](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Where%20Type/MEDIUM/176.%20Second%20Highest%20Salary.md)  
   * [550. Game Play Analysis IV](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Where%20Type/MEDIUM/550.%20Game%20Play%20Analysis%20IV.md)  
-  * [614. Second Degree Follower]()
+  * [614. Second Degree Follower](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Where%20Type/MEDIUM/614.%20Second%20Degree%20Follower.md)
   * [1174. Immediate Food Delivery II](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Where%20Type/MEDIUM/1174.%20Immediate%20Food%20Delivery%20II.md)  
 
 
