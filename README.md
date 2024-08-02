@@ -32,7 +32,7 @@
 |2024.07.22|solved 78| +3|
 |2024.07.23|solved 81| +3|
 |2024.08.01|(프리미엄 결제) - solved 82| +1|
-|2024.08.02|solved 83| +1|
+|2024.08.02|solved 85| +3|
 
 
 ## 🟩 Easy
@@ -101,6 +101,7 @@
   * [183. Customers Who Never Order](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Join%20Type/EASY/183.%20Customers%20Who%20Never%20Order.md)  
   * [197. Rising Temperature](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Join%20Type/EASY/197.%20Rising%20Temperature.md)  
   * [577. Employee Bonus](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Join%20Type/EASY/577.%20Employee%20Bonus.md)  
+  * [580. Count Student Number in Departments]()  
   * [607. Sales Person](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Join%20Type/EASY/607.%20Sales%20Person.md)  
   * [1075. Project Employees I](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Join%20Type/EASY/1075.%20Project%20Employees%20I.md)  
   * [1251. Average Selling Price](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Join%20Type/EASY/1251.%20Average%20Selling%20Price.md) 
