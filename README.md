@@ -33,6 +33,7 @@
 |2024.07.23|solved 81| +3|
 |2024.08.01|(프리미엄 결제) - solved 82| +1|
 |2024.08.02|solved 86| +4|
+|2024.08.03|solved 87| +1|
 
 
 ## 🟩 Easy
@@ -147,6 +148,7 @@
   * [184. Department Highest Salary](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Function%20Type/MEDIUM/184.%20Department%20Highest%20Salary.md)  
   * [(WINDOW) 534. Game Play Analysis III](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Function%20Type/MEDIUM/534.%20Game%20Play%20Analysis%20III.md)  
   * [626. Exchange Seats](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Function%20Type/MEDIUM/626.%20Exchange%20Seats.md)  
+  * [(WINDOW) 1077. Project Employees III]()  
   * [(WINDOW) 1321. Restaurant Growth](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Function%20Type/MEDIUM/1321.%20Restaurant%20Growth.md)  
   * [(WINDOW) 1341. Movie Rating](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Function%20Type/MEDIUM/1341.%20Movie%20Rating.md)  
   * [(WINDOW) 1934. Confirmation Rate](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Function%20Type/MEDIUM/1934.%20Confirmation%20Rate.md)   
