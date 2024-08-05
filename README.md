@@ -151,7 +151,7 @@
   * [(WINDOW) 534. Game Play Analysis III](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Function%20Type/MEDIUM/534.%20Game%20Play%20Analysis%20III.md)  
   * [626. Exchange Seats](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Function%20Type/MEDIUM/626.%20Exchange%20Seats.md)  
   * [(WINDOW) 1077. Project Employees III](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Function%20Type/MEDIUM/1077.%20Project%20Employees%20III.md)  
-  * [1112. Highest Grade For Each Student]()  
+  * [1112. Highest Grade For Each Student](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Function%20Type/MEDIUM/1112.%20Highest%20Grade%20For%20Each%20Student.md)   
   * [(WINDOW) 1321. Restaurant Growth](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Function%20Type/MEDIUM/1321.%20Restaurant%20Growth.md)  
   * [(WINDOW) 1341. Movie Rating](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Function%20Type/MEDIUM/1341.%20Movie%20Rating.md)  
   * [(WINDOW) 1934. Confirmation Rate](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Function%20Type/MEDIUM/1934.%20Confirmation%20Rate.md)   
@@ -175,7 +175,7 @@
     <summary> 🗳️ [GROUP BY TYPE] LIST</summary>
 
   * [578. Get Highest Answer Rate Question](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Groupby%20Type/MEDIUM/578.%20Get%20Highest%20Answer%20Rate%20Question.md)  
-  * [1107. New Users Daily Count]()  
+  * [1107. New Users Daily Count](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Groupby%20Type/MEDIUM/1107.%20New%20Users%20Daily%20Count.md)  
   * [1045. Customers Who Bought All Products](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Groupby%20Type/MEDIUM/1045.%20Customers%20Who%20Bought%20All%20Products.md)
   * [1193. Monthly Transactions I](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Groupby%20Type/MEDIUM/1193.%20Monthly%20Transactions%20I.md)  
 
@@ -210,7 +210,7 @@
   
   * [585. Investments in 2016](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20SubQuery%20Type/MEDIUM/585.%20Investments%20in%202016.md)  
   * [1070. Product Sales Analysis III](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20SubQuery%20Type/MEDIUM/1070.%20Product%20Sales%20Analysis%20III.md)
-  * [1098. Unpopular Books]()
+  * [1098. Unpopular Books](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20SubQuery%20Type/MEDIUM/1098.%20Unpopular%20Books.md)  
 
 </details>
 
