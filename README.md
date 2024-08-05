@@ -34,7 +34,7 @@
 |2024.08.01|(프리미엄 결제) - solved 82| +1|
 |2024.08.02|solved 86| +4|
 |2024.08.03|solved 87| +1|
-|2024.08.05|solved 88| +1|
+|2024.08.05|solved 89| +2|
 
 
 
@@ -174,9 +174,9 @@
     <summary> 🗳️ [GROUP BY TYPE] LIST</summary>
 
   * [578. Get Highest Answer Rate Question](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Groupby%20Type/MEDIUM/578.%20Get%20Highest%20Answer%20Rate%20Question.md)  
+  * [1107. New Users Daily Count]()  
   * [1045. Customers Who Bought All Products](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Groupby%20Type/MEDIUM/1045.%20Customers%20Who%20Bought%20All%20Products.md)
   * [1193. Monthly Transactions I](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Groupby%20Type/MEDIUM/1193.%20Monthly%20Transactions%20I.md)  
-
 
 </details>
 
