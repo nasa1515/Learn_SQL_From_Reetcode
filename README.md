@@ -34,6 +34,8 @@
 |2024.08.01|(프리미엄 결제) - solved 82| +1|
 |2024.08.02|solved 86| +4|
 |2024.08.03|solved 87| +1|
+|2024.08.05|solved 88| +1|
+
 
 
 ## 🟩 Easy
@@ -207,6 +209,7 @@
   
   * [585. Investments in 2016](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20SubQuery%20Type/MEDIUM/585.%20Investments%20in%202016.md)  
   * [1070. Product Sales Analysis III](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20SubQuery%20Type/MEDIUM/1070.%20Product%20Sales%20Analysis%20III.md)
+  * [1098. Unpopular Books]()
 
 </details>
 
