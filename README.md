@@ -152,7 +152,7 @@
   * [(WINDOW) 534. Game Play Analysis III](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Function%20Type/MEDIUM/534.%20Game%20Play%20Analysis%20III.md)  
   * [626. Exchange Seats](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Function%20Type/MEDIUM/626.%20Exchange%20Seats.md)  
   * [(WINDOW) 1077. Project Employees III](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Function%20Type/MEDIUM/1077.%20Project%20Employees%20III.md)  
-  * [1126. Active Businesses]()  
+  * [1126. Active Businesses](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Function%20Type/MEDIUM/1126.%20Active%20Businesses.md)  
   * [1112. Highest Grade For Each Student](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Function%20Type/MEDIUM/1112.%20Highest%20Grade%20For%20Each%20Student.md)   
   * [(WINDOW) 1321. Restaurant Growth](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Function%20Type/MEDIUM/1321.%20Restaurant%20Growth.md)  
   * [(WINDOW) 1341. Movie Rating](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Function%20Type/MEDIUM/1341.%20Movie%20Rating.md)  
@@ -180,7 +180,7 @@
   * [578. Get Highest Answer Rate Question](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Groupby%20Type/MEDIUM/578.%20Get%20Highest%20Answer%20Rate%20Question.md)  
   * [1107. New Users Daily Count](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Groupby%20Type/MEDIUM/1107.%20New%20Users%20Daily%20Count.md)  
   * [1045. Customers Who Bought All Products](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Groupby%20Type/MEDIUM/1045.%20Customers%20Who%20Bought%20All%20Products.md)  
-  * [1149. Article Views II]()
+  * [1149. Article Views II](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Groupby%20Type/MEDIUM/1149.%20Article%20Views%20II.md)
   * [1193. Monthly Transactions I](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Groupby%20Type/MEDIUM/1193.%20Monthly%20Transactions%20I.md)  
 
 </details>
@@ -203,7 +203,7 @@
   
   * [570. Managers with at Least 5 Direct Reports](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Join%20Type/MEDIUM/570.%20Managers%20with%20at%20Least%205%20Direct%20Reports.md)  
   * [574. Winning Candidate](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Join%20Type/MEDIUM/574.%20Winning%20Candidate.md)  
-  * [1132. Reported Posts II]()
+  * [1132. Reported Posts II](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Join%20Type/MEDIUM/1132.%20Reported%20Posts%20II.md)
   * [1158. Market Analysis I](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Join%20Type/MEDIUM/1158.%20Market%20Analysis%20I.md)  
   * [1393. Capital Gain-Loss](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Join%20Type/MEDIUM/1393.%20Capital%20Gain-Loss.md)  
 
