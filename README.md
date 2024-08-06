@@ -35,6 +35,7 @@
 |2024.08.02|solved 86| +4|
 |2024.08.03|solved 87| +1|
 |2024.08.05|solved 90| +3|
+|2024.08.06|solved 91| +1|
 
 
 
@@ -151,10 +152,12 @@
   * [(WINDOW) 534. Game Play Analysis III](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Function%20Type/MEDIUM/534.%20Game%20Play%20Analysis%20III.md)  
   * [626. Exchange Seats](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Function%20Type/MEDIUM/626.%20Exchange%20Seats.md)  
   * [(WINDOW) 1077. Project Employees III](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Function%20Type/MEDIUM/1077.%20Project%20Employees%20III.md)  
+  * [1126. Active Businesses]()  
   * [1112. Highest Grade For Each Student](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Function%20Type/MEDIUM/1112.%20Highest%20Grade%20For%20Each%20Student.md)   
   * [(WINDOW) 1321. Restaurant Growth](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Function%20Type/MEDIUM/1321.%20Restaurant%20Growth.md)  
   * [(WINDOW) 1341. Movie Rating](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Function%20Type/MEDIUM/1341.%20Movie%20Rating.md)  
   * [(WINDOW) 1934. Confirmation Rate](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Function%20Type/MEDIUM/1934.%20Confirmation%20Rate.md)   
+  
 
 
 </details>
