@@ -35,7 +35,7 @@
 |2024.08.02|solved 86| +4|
 |2024.08.03|solved 87| +1|
 |2024.08.05|solved 90| +3|
-|2024.08.06|solved 91| +1|
+|2024.08.06|solved 92| +2|
 
 
 
@@ -202,6 +202,7 @@
   
   * [570. Managers with at Least 5 Direct Reports](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Join%20Type/MEDIUM/570.%20Managers%20with%20at%20Least%205%20Direct%20Reports.md)  
   * [574. Winning Candidate](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Join%20Type/MEDIUM/574.%20Winning%20Candidate.md)  
+  * [1132. Reported Posts II]()
   * [1158. Market Analysis I](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Join%20Type/MEDIUM/1158.%20Market%20Analysis%20I.md)  
   * [1393. Capital Gain-Loss](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Join%20Type/MEDIUM/1393.%20Capital%20Gain-Loss.md)  
 
