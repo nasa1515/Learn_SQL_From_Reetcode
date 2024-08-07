@@ -36,7 +36,7 @@
 |2024.08.03|solved 87| +1|
 |2024.08.05|solved 90| +3|
 |2024.08.06|solved 93| +3|
-|2024.08.07|solved 94| +1|
+|2024.08.07|solved 95| +2|
 
 
 ## 🟩 Easy
@@ -205,6 +205,7 @@
   * [574. Winning Candidate](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Join%20Type/MEDIUM/574.%20Winning%20Candidate.md)  
   * [1132. Reported Posts II](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Join%20Type/MEDIUM/1132.%20Reported%20Posts%20II.md)
   * [1158. Market Analysis I](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Join%20Type/MEDIUM/1158.%20Market%20Analysis%20I.md)  
+  * [1212. Team Scores in Football Tournament]()
   * [1393. Capital Gain-Loss](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Join%20Type/MEDIUM/1393.%20Capital%20Gain-Loss.md)  
 
 </details>
