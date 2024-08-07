@@ -36,7 +36,7 @@
 |2024.08.03|solved 87| +1|
 |2024.08.05|solved 90| +3|
 |2024.08.06|solved 93| +3|
-
+|2024.08.07|solved 94| +1|
 
 
 ## 🟩 Easy
@@ -225,7 +225,7 @@
   * [602. Friend Requests II: Who Has the Most Friends](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20CTE%20Type/MEDIUM/602.%20Friend%20Requests%20II%3A%20Who%20Has%20the%20Most%20Friends.md)   
   * [1164. Product Price at a Given Date](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20CTE%20Type/MEDIUM/1164.%20Product%20Price%20at%20a%20Given%20Date.md)
   * [1204. Last Person to Fit in the Bus](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20CTE%20Type/MEDIUM/1204.%20Last%20Person%20to%20Fit%20in%20the%20Bus.md)
-
+  * [1205. Monthly Transactions II]()
 
 </details>
 
