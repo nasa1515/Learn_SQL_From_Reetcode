@@ -37,7 +37,7 @@
 |2024.08.05|solved 90| +3|
 |2024.08.06|solved 93| +3|
 |2024.08.07|solved 95| +2|
-
+|2024.08.08|solved 96| +1|
 
 ## 🟩 Easy
 
@@ -227,6 +227,7 @@
   * [1164. Product Price at a Given Date](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20CTE%20Type/MEDIUM/1164.%20Product%20Price%20at%20a%20Given%20Date.md)
   * [1204. Last Person to Fit in the Bus](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20CTE%20Type/MEDIUM/1204.%20Last%20Person%20to%20Fit%20in%20the%20Bus.md)
   * [1205. Monthly Transactions II]()
+  * [1264. Page Recommendations]()  
 
 </details>
 
