@@ -27,7 +27,7 @@ GOAL : 하루에 한문제 이상의 문제를 풀고 정리하기
 <br/>
 
 <details>
-<summary> <u>**💾 문제 모음집**<u> 🔽</summary>
+<summary> <strong>💾 문제 모음집</strong> 🔽</summary>
   
   <br/>
 
