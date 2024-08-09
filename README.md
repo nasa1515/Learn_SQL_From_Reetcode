@@ -39,9 +39,6 @@ GOAL : 하루에 한문제 이상의 문제를 풀고 정리하기
 <summary> <strong>문제 모음집 🔽</strong></summary>
   
   <br/>
-  <br/>
-
-
 
 <ul>
 <details>
@@ -96,7 +93,8 @@ GOAL : 하루에 한문제 이상의 문제를 풀고 정리하기
 
   <details>
     <summary> 🔍 [WHERE TYPE] LIST</summary>
-  
+    <br/>
+
   * [196. Delete Duplicate Emails](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Where%20Type/EASY/196.%20Delete%20Duplicate%20Emails.md)  
   * [584. Find Customer Referee](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Where%20Type/EASY/584.%20Find%20Customer%20Referee.md)  
   * [595. Big Countries](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Where%20Type/EASY/595.%20Big%20Countries.md)  
@@ -109,7 +107,8 @@ GOAL : 하루에 한문제 이상의 문제를 풀고 정리하기
 
   <details>
     <summary> ✂️ [JOIN TYPE] LIST</summary>
-  
+    <br/>
+
   * [175. Combine Two Tables](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Join%20Type/EASY/175.%20Combine%20Two%20Tables.md)  
   * [181. Employees Earning More Than Their Managers](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Join%20Type/EASY/181.%20Employees%20Earning%20More%20Than%20Their%20Managers.md)  
   * [183. Customers Who Never Order](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Join%20Type/EASY/183.%20Customers%20Who%20Never%20Order.md)  
@@ -131,7 +130,8 @@ GOAL : 하루에 한문제 이상의 문제를 풀고 정리하기
 
   <details>
     <summary> ✏️ [REGEXP TYPE] LIST</summary>
-  
+    <br/>
+
   * [1517. Find Users With Valid E-Mails](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20REGEXP%20Type/EASY/1517.%20Find%20Users%20With%20Valid%20E-Mails.md)  
   * [1527. Patients With a Condition](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20REGEXP%20Type/EASY/1527.%20Patients%20With%20a%20Condition.md)  
 
@@ -140,7 +140,8 @@ GOAL : 하루에 한문제 이상의 문제를 풀고 정리하기
 
   <details>
     <summary> 🔏 [SUBQUERY TYPE] LIST</summary>
-  
+    <br/>
+
   * [1789. Primary Department for Each Employee](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20SubQuery%20Type/EASY/1789.%20Primary%20Department%20for%20Each%20Employee.md)  
   * [1965. Employees With Missing Information](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20SubQuery%20Type/EASY/1965.%20Employees%20With%20Missing%20Information.md)  
   * [1978. Employees Whose Manager Left the Company](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20SubQuery%20Type/EASY/1978.%20Employees%20Whose%20Manager%20Left%20the%20Company.md)
@@ -158,7 +159,8 @@ GOAL : 하루에 한문제 이상의 문제를 풀고 정리하기
   <ul>
   <details>
     <summary> ⚙️ [FUNCTION TYPE] LIST</summary>
-  
+    <br/>
+
   * [178. Rank Scores](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Function%20Type/MEDIUM/178.%20Rank%20Scores.md)  
   * [180. Consecutive Numbers](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Function%20Type/MEDIUM/180.%20Consecutive%20Numbers.md)
   * [184. Department Highest Salary](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Function%20Type/MEDIUM/184.%20Department%20Highest%20Salary.md)  
@@ -176,7 +178,8 @@ GOAL : 하루에 한문제 이상의 문제를 풀고 정리하기
 
   <details>
     <summary> 📁 [CASE WHEN TYPE] LIST</summary>
-  
+    <br/>
+
   * [608. Tree Node](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Case%20when%20Type/MEDIUM/608.%20Tree%20Node.md)    
   * [1907. Count Salary Categories](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Case%20when%20Type/MEDIUM/1907.%20Count%20Salary%20Categories.md)  
   * [3220. Odd and Even Transactions](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Case%20when%20Type/MEDIUM/3220.%20Odd%20and%20Even%20Transactions.md)  
@@ -184,6 +187,7 @@ GOAL : 하루에 한문제 이상의 문제를 풀고 정리하기
 
   <details>
     <summary> 🗳️ [GROUP BY TYPE] LIST</summary>
+    <br/>
 
   * [578. Get Highest Answer Rate Question](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Groupby%20Type/MEDIUM/578.%20Get%20Highest%20Answer%20Rate%20Question.md)  
   * [1107. New Users Daily Count](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Groupby%20Type/MEDIUM/1107.%20New%20Users%20Daily%20Count.md)  
@@ -195,7 +199,8 @@ GOAL : 하루에 한문제 이상의 문제를 풀고 정리하기
 
   <details>
     <summary> 🔍 [WHERE TYPE] LIST</summary>
-  
+    <br/>
+
   * [176. Second Highest Salary](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Where%20Type/MEDIUM/176.%20Second%20Highest%20Salary.md)  
   * [550. Game Play Analysis IV](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Where%20Type/MEDIUM/550.%20Game%20Play%20Analysis%20IV.md)  
   * [614. Second Degree Follower](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Where%20Type/MEDIUM/614.%20Second%20Degree%20Follower.md)
@@ -205,7 +210,8 @@ GOAL : 하루에 한문제 이상의 문제를 풀고 정리하기
 
   <details>
     <summary> ✂️ [JOIN TYPE] LIST</summary>
-  
+    <br/>
+
   * [570. Managers with at Least 5 Direct Reports](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Join%20Type/MEDIUM/570.%20Managers%20with%20at%20Least%205%20Direct%20Reports.md)  
   * [574. Winning Candidate](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Join%20Type/MEDIUM/574.%20Winning%20Candidate.md)  
   * [1132. Reported Posts II](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Join%20Type/MEDIUM/1132.%20Reported%20Posts%20II.md)
@@ -218,7 +224,8 @@ GOAL : 하루에 한문제 이상의 문제를 풀고 정리하기
 
   <details>
     <summary> 🔏 [SUBQUERY TYPE] LIST</summary>
-  
+    <br/>
+
   * [585. Investments in 2016](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20SubQuery%20Type/MEDIUM/585.%20Investments%20in%202016.md)  
   * [1070. Product Sales Analysis III](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20SubQuery%20Type/MEDIUM/1070.%20Product%20Sales%20Analysis%20III.md)
   * [1098. Unpopular Books](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20SubQuery%20Type/MEDIUM/1098.%20Unpopular%20Books.md)  
@@ -227,7 +234,8 @@ GOAL : 하루에 한문제 이상의 문제를 풀고 정리하기
 
   <details>
     <summary> ➕ [CTE TYPE] LIST</summary>
-  
+    <br/>
+
   * [602. Friend Requests II: Who Has the Most Friends](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20CTE%20Type/MEDIUM/602.%20Friend%20Requests%20II%3A%20Who%20Has%20the%20Most%20Friends.md)   
   * [1164. Product Price at a Given Date](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20CTE%20Type/MEDIUM/1164.%20Product%20Price%20at%20a%20Given%20Date.md)
   * [1204. Last Person to Fit in the Bus](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20CTE%20Type/MEDIUM/1204.%20Last%20Person%20to%20Fit%20in%20the%20Bus.md)
@@ -247,6 +255,7 @@ GOAL : 하루에 한문제 이상의 문제를 풀고 정리하기
   <ul>
   <details>
     <summary> ⚙️ [FUNCTION TYPE] LIST</summary>  
+    <br/>
 
   * [185. Department Top Three Salaries](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Function%20Type/HARD/185.%20Department%20Top%20Three%20Salaries.md)  
   * [601. Human Traffic of Stadium](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Function%20Type/HARD/601.%20Human%20Traffic%20of%20Stadium.md)  
@@ -255,7 +264,8 @@ GOAL : 하루에 한문제 이상의 문제를 풀고 정리하기
 
   <details>
     <summary> 🔍 [WHERE TYPE] LIST</summary>
-  
+    <br/>
+    
   * [262. Trips and Users](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Where%20Type/HARD/262.%20Trips%20and%20Users.md)  
 
   </details>
