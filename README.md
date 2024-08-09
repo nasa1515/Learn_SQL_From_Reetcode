@@ -1,7 +1,5 @@
-# SQL LEARN STORAGE OF NASA1515
-
 <p align='center'>
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=SQL%20Learn%20Storage&fontSize=90&animation=fadeIn&fontAlignY=38&desc=learning%20and%20Working%20by SQL!&descAlignY=51&descAlign=62"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=SQL%20Learn%20Storage&fontSize=90&animation=fadeIn&fontAlignY=38&desc=learning%20and%20Working%20by%20SQL!&descAlignY=51&descAlign=62"/>
 </p>
 
 <div align = "center">
@@ -19,31 +17,34 @@
 <br/> 
 <br/>
 
+### <u>Start_Date : 2024.07.09</u>    
+GOAL : 하루에 한문제 이상의 문제를 풀고 정리하기 
 
-<font size="5" color="orange">Start_Date : 2024.07.09</font>  
-<span style="color: green; font-size: 17px;">GOAL : 하루에 한문제 이상의 문제를 풀고 정리하기</span>  
-
-<img src="https://leetcode.card.workers.dev/nasa1515?theme=wtf&font=&extension=activity" width="60%" />
+<img src="https://leetcode.card.workers.dev/nasa1515?theme=wtf&font=&extension=activity" width="50%" />
 
 
-<br/>
 <br/>
 <br/>
 
 <details>
-  <summary style="font-size: 20px;"> 💾 문제 모음집 💾</summary>
+<summary style="font-size: 20px;"> 💾 문제 모음집 💾</summary>
   
-## 🟩 Easy
+  <br/>
 
 <details>
+<summary style="font-size: 20px;">🟩 Easy</summary>
+  
+  <br/>
+
+  <details>
     <summary> ⚙️ [FUNCTION TYPE] LIST</summary>
   
   * [1667. Fix Names in a Table](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Function%20Type/EASY/1667.%20Fix%20Names%20in%20a%20Table.md)  
   * [1795. Rearrange Products Table](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Function%20Type/EASY/1795.%20Rearrange%20Products%20Table.md)
   
-</details>
+  </details>
 
-<details>
+  <details>
     <summary> 📁 [CASE WHEN TYPE] LIST</summary>
   
   * [610. Triangle Judgement](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Case%20when%20Type/EASY/610.%20Triangle%20Judgement.md)  
@@ -51,10 +52,10 @@
   * [1179. Reformat Department Table](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Case%20when%20Type/EASY/1179.%20Reformat%20Department%20Table.md) 
   * [1873. Calculate Special Bonus](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Case%20when%20Type/EASY/1873.%20Calculate%20Special%20Bonus.md)    
   
-</details>
+  </details>
 
 
-<details>
+  <details>
     <summary> 🗳️ [GROUP BY TYPE] LIST</summary>
   
   * [182. Duplicate Emails](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Groupby%20Type/EASY/182.%20Duplicate%20Emails.md)  
@@ -74,9 +75,9 @@
   * [1741. Find Total Time Spent by Each Employee](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Groupby%20Type/EASY/1741.%20Find%20Total%20Time%20Spent%20by%20Each%20Employee.md)  
   * [2356. Number of Unique Subjects Taught by Each Teacher](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Groupby%20Type/EASY/2356.%20Number%20of%20Unique%20Subjects%20Taught%20by%20Each%20Teacher.md)
 
-</details>
+  </details>
 
-<details>
+  <details>
     <summary> 🔍 [WHERE TYPE] LIST</summary>
   
   * [196. Delete Duplicate Emails](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Where%20Type/EASY/196.%20Delete%20Duplicate%20Emails.md)  
@@ -87,10 +88,9 @@
   * [1683. Invalid Tweets](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Where%20Type/EASY/1683.%20Invalid%20Tweets.md)  
   * [1890. The Latest Login in 2020](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Where%20Type/EASY/1890.%20The%20Latest%20Login%20in%202020.md)
 
-</details>
+  </details>
 
-
-<details>
+  <details>
     <summary> ✂️ [JOIN TYPE] LIST</summary>
   
   * [175. Combine Two Tables](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Join%20Type/EASY/175.%20Combine%20Two%20Tables.md)  
@@ -110,33 +110,36 @@
   * [1587. Bank Account Summary II](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Join%20Type/EASY/1587.%20Bank%20Account%20Summary%20II.md) 
   * [1661. Average Time of Process per Machine](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Join%20Type/EASY/1661.%20Average%20Time%20of%20Process%20per%20Machine.md) 
   * [1731. The Number of Employees Which Report to Each Employee](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Join%20Type/EASY/1731.%20The%20Number%20of%20Employees%20Which%20Report%20to%20Each%20Employee.md)
+  </details>
 
-<details>
+  <details>
     <summary> ✏️ [REGEXP TYPE] LIST</summary>
   
   * [1517. Find Users With Valid E-Mails](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20REGEXP%20Type/EASY/1517.%20Find%20Users%20With%20Valid%20E-Mails.md)  
   * [1527. Patients With a Condition](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20REGEXP%20Type/EASY/1527.%20Patients%20With%20a%20Condition.md)  
 
+  </details>
 
-</details>
 
-
-<details>
+  <details>
     <summary> 🔏 [SUBQUERY TYPE] LIST</summary>
   
   * [1789. Primary Department for Each Employee](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20SubQuery%20Type/EASY/1789.%20Primary%20Department%20for%20Each%20Employee.md)  
   * [1965. Employees With Missing Information](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20SubQuery%20Type/EASY/1965.%20Employees%20With%20Missing%20Information.md)  
   * [1978. Employees Whose Manager Left the Company](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20SubQuery%20Type/EASY/1978.%20Employees%20Whose%20Manager%20Left%20the%20Company.md)
+  </details>
 
 </details>
-</details>
 
-
-
-##   🟧 Midium
-
+<br/>
 
 <details>
+<summary style="font-size: 20px;">   🟧 Midium</summary>
+<br/>
+
+
+
+  <details>
     <summary> ⚙️ [FUNCTION TYPE] LIST</summary>
   
   * [178. Rank Scores](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Function%20Type/MEDIUM/178.%20Rank%20Scores.md)  
@@ -151,23 +154,18 @@
   * [(WINDOW) 1341. Movie Rating](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Function%20Type/MEDIUM/1341.%20Movie%20Rating.md)  
   * [(WINDOW) 1934. Confirmation Rate](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Function%20Type/MEDIUM/1934.%20Confirmation%20Rate.md)   
   
+  </details>
 
 
-</details>
-
-
-<details>
+  <details>
     <summary> 📁 [CASE WHEN TYPE] LIST</summary>
   
   * [608. Tree Node](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Case%20when%20Type/MEDIUM/608.%20Tree%20Node.md)    
   * [1907. Count Salary Categories](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Case%20when%20Type/MEDIUM/1907.%20Count%20Salary%20Categories.md)  
-  * [3220. Odd and Even Transactions](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Case%20when%20Type/MEDIUM/3220.%20Odd%20and%20Even%20Transactions.md)
+  * [3220. Odd and Even Transactions](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Case%20when%20Type/MEDIUM/3220.%20Odd%20and%20Even%20Transactions.md)  
+  </details>
 
-</details>
-
-
-
-<details>
+  <details>
     <summary> 🗳️ [GROUP BY TYPE] LIST</summary>
 
   * [578. Get Highest Answer Rate Question](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Groupby%20Type/MEDIUM/578.%20Get%20Highest%20Answer%20Rate%20Question.md)  
@@ -176,10 +174,9 @@
   * [1149. Article Views II](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Groupby%20Type/MEDIUM/1149.%20Article%20Views%20II.md)
   * [1193. Monthly Transactions I](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Groupby%20Type/MEDIUM/1193.%20Monthly%20Transactions%20I.md)  
 
-</details>
+  </details>
 
-
-<details>
+  <details>
     <summary> 🔍 [WHERE TYPE] LIST</summary>
   
   * [176. Second Highest Salary](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Where%20Type/MEDIUM/176.%20Second%20Highest%20Salary.md)  
@@ -187,11 +184,9 @@
   * [614. Second Degree Follower](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Where%20Type/MEDIUM/614.%20Second%20Degree%20Follower.md)
   * [1174. Immediate Food Delivery II](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Where%20Type/MEDIUM/1174.%20Immediate%20Food%20Delivery%20II.md)  
 
+  </details>
 
-</details>
-
-
-<details>
+  <details>
     <summary> ✂️ [JOIN TYPE] LIST</summary>
   
   * [570. Managers with at Least 5 Direct Reports](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Join%20Type/MEDIUM/570.%20Managers%20with%20at%20Least%205%20Direct%20Reports.md)  
@@ -202,19 +197,18 @@
   * [1270. All People Report to the Given Manager](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Join%20Type/MEDIUM/1270.%20All%20People%20Report%20to%20the%20Given%20Manager.md)  
   * [1393. Capital Gain-Loss](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Join%20Type/MEDIUM/1393.%20Capital%20Gain-Loss.md)  
 
-</details>
+  </details>
 
-
-<details>
+  <details>
     <summary> 🔏 [SUBQUERY TYPE] LIST</summary>
   
   * [585. Investments in 2016](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20SubQuery%20Type/MEDIUM/585.%20Investments%20in%202016.md)  
   * [1070. Product Sales Analysis III](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20SubQuery%20Type/MEDIUM/1070.%20Product%20Sales%20Analysis%20III.md)
   * [1098. Unpopular Books](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20SubQuery%20Type/MEDIUM/1098.%20Unpopular%20Books.md)  
 
-</details>
+  </details>
 
-<details>
+  <details>
     <summary> ➕ [CTE TYPE] LIST</summary>
   
   * [602. Friend Requests II: Who Has the Most Friends](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20CTE%20Type/MEDIUM/602.%20Friend%20Requests%20II%3A%20Who%20Has%20the%20Most%20Friends.md)   
@@ -223,28 +217,32 @@
   * [1205. Monthly Transactions II](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20CTE%20Type/MEDIUM/1205.%20Monthly%20Transactions%20II.md)  
   * [1264. Page Recommendations](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20CTE%20Type/MEDIUM/1264.%20Page%20Recommendations.md)  
 
+  </details>
+
 </details>
 
-
-##   🟥 HARD
-
+<br/>
 
 <details>
+<summary style="font-size: 20px;">   🟥 HARD</summary>
+<br/>
+
+
+  <details>
     <summary> ⚙️ [FUNCTION TYPE] LIST</summary>  
 
   * [185. Department Top Three Salaries](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Function%20Type/HARD/185.%20Department%20Top%20Three%20Salaries.md)  
   * [601. Human Traffic of Stadium](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Function%20Type/HARD/601.%20Human%20Traffic%20of%20Stadium.md)  
 
-</details>
+  </details>
 
-<details>
+  <details>
     <summary> 🔍 [WHERE TYPE] LIST</summary>
   
   * [262. Trips and Users](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Where%20Type/HARD/262.%20Trips%20and%20Users.md)  
 
+  </details>
+
 
 </details>
-
-
-
 </details>
