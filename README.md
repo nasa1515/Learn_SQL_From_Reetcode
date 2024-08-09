@@ -25,14 +25,18 @@ GOAL : 하루에 한문제 이상의 문제를 풀고 정리하기
 
 <br/>
 <br/>
+<br/>
+<br/>
+
+<div align = "left">
 
 <details>
-<summary> <strong>💾 문제 모음집</strong> 🔽</summary>
+<summary> <strong>💾 문제 모음집 🔽</strong></summary>
   
   <br/>
 
 <details>
-<summary> ### 🟩 Easy 🔽 </summary>
+<summary> <strong>🟩 Q. EASY 🔽 </strong> </summary>
   
   <br/>
 
@@ -134,7 +138,7 @@ GOAL : 하루에 한문제 이상의 문제를 풀고 정리하기
 <br/>
 
 <details>
-<summary style="font-size: 20px;">   🟧 Midium</summary>
+<summary> <strong> 🟧 Q. MEDIUM 🔽 </strong> </summary>
 <br/>
 
 
@@ -224,7 +228,7 @@ GOAL : 하루에 한문제 이상의 문제를 풀고 정리하기
 <br/>
 
 <details>
-<summary style="font-size: 20px;">   🟥 HARD</summary>
+<summary>   🟥 Q.HARD 🔽 </summary>
 <br/>
 
 
