@@ -1,18 +1,29 @@
 # SQL LEARN STORAGE OF NASA1515
 
-<img src="./Resource/Reet_ReadMe.jpg" alt="이미지 설명" width="700" height="450"/>
+<p align='center'>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=SQL%20Learn%20Storage&fontSize=90&animation=fadeIn&fontAlignY=38&desc=learning%20and%20Working%20by SQL!&descAlignY=51&descAlign=62"/>
+</p>
 
-경험하고 학습했던 SQL 관련 내용을 정리하고, LeetCode 기반의 SQL 문제를 정리한 저장소 입니다.    
-* 기초 단계 Base부터 시작하는 지식 저장소 입니다.
-* 문제의 경우 답만 띡 던져놓는 방식 보다는, 문제 풀이를 정리하는 방식을 지향합니다.
+<div align = "center">
+
+### 🖐 Hi EveryOne! 🖐
+
+경험하고 학습했던 SQL 내용을 정리하고, LeetCode 기반의 SQL 문제를 정리한 저장소 입니다.  
+이 저장소는 아래와 같은 목적성을 가지고 있습니다.    
+<br/>
+**1. 기초 단계 Base부터 시작하는 지식 저장소.**  
+**2. 문제의 경우 풀이를 정리하는 방식을 지향합니다.**  
+
+<br/>
+<br/> 
+<br/> 
+<br/>
 
 
----
-
-<span style="color: orange; font-size: 22px;">Start_Date : 2024.07.09</span>  
+<font size="5" color="orange">Start_Date : 2024.07.09</font>  
 <span style="color: green; font-size: 17px;">GOAL : 하루에 한문제 이상의 문제를 풀고 정리하기</span>  
 
-<img src="https://leetcode.card.workers.dev/nasa1515?theme=wtf&font=&extension=activity" width="70%" />
+<img src="https://leetcode.card.workers.dev/nasa1515?theme=wtf&font=&extension=activity" width="60%" />
 
 
 <br/>
