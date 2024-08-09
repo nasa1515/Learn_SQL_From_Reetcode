@@ -12,27 +12,33 @@
 **1. 기초 단계 Base부터 시작하는 지식 저장소.**  
 **2. 문제의 경우 풀이를 정리하는 방식을 지향합니다.**  
 
-<br/>
-<br/> 
+
 <br/> 
 <br/>
 
 ### <u>Start_Date : 2024.07.09</u>    
 GOAL : 하루에 한문제 이상의 문제를 풀고 정리하기 
 
-<img src="https://leetcode.card.workers.dev/nasa1515?theme=wtf&font=&extension=activity" width="50%" />
+<img src="https://leetcode.card.workers.dev/nasa1515?theme=wtf&font=&extension=activity" width="50%" />  
 
 
 <br/>
 <br/>
 <br/>
+<br/>
+
+---
+
 <br/>
 
 <div align = "left">
 
+### Reet CODE
+
 <details>
 <summary> <strong>💾 문제 모음집 🔽</strong></summary>
   
+  <br/>
   <br/>
 
 <details>
@@ -42,7 +48,8 @@ GOAL : 하루에 한문제 이상의 문제를 풀고 정리하기
 
   <details>
     <summary> ⚙️ [FUNCTION TYPE] LIST</summary>
-  
+    <br/>  
+
   * [1667. Fix Names in a Table](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Function%20Type/EASY/1667.%20Fix%20Names%20in%20a%20Table.md)  
   * [1795. Rearrange Products Table](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Function%20Type/EASY/1795.%20Rearrange%20Products%20Table.md)
   
@@ -50,7 +57,8 @@ GOAL : 하루에 한문제 이상의 문제를 풀고 정리하기
 
   <details>
     <summary> 📁 [CASE WHEN TYPE] LIST</summary>
-  
+    <br/>
+
   * [610. Triangle Judgement](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Case%20when%20Type/EASY/610.%20Triangle%20Judgement.md)  
   * [627. Swap Salary](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Case%20when%20Type/EASY/627.%20Swap%20Salary.md)   
   * [1179. Reformat Department Table](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Case%20when%20Type/EASY/1179.%20Reformat%20Department%20Table.md) 
@@ -61,7 +69,8 @@ GOAL : 하루에 한문제 이상의 문제를 풀고 정리하기
 
   <details>
     <summary> 🗳️ [GROUP BY TYPE] LIST</summary>
-  
+    <br/>
+
   * [182. Duplicate Emails](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Groupby%20Type/EASY/182.%20Duplicate%20Emails.md)  
   * [511. Game Play Analysis I](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Groupby%20Type/EASY/511.%20Game%20Play%20Analysis%20I.md)  
   * [586. Customer Placing the Largest Number of Orders](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Groupby%20Type/EASY/586.%20Customer%20Placing%20the%20Largest%20Number%20of%20Orders.md)  
@@ -228,7 +237,7 @@ GOAL : 하루에 한문제 이상의 문제를 풀고 정리하기
 <br/>
 
 <details>
-<summary>   🟥 Q.HARD 🔽 </summary>
+<summary>   <strong>🟥 Q. HARD 🔽 </strong> </summary>
 <br/>
 
 
