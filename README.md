@@ -33,17 +33,21 @@ GOAL : 하루에 한문제 이상의 문제를 풀고 정리하기
 
 <div align = "left">
 
-### Reet CODE
+## Reet CODE
 
 <details>
-<summary> <strong>💾 문제 모음집 🔽</strong></summary>
+<summary> <strong>문제 모음집 🔽</strong></summary>
   
   <br/>
   <br/>
 
+
+
+<ul>
 <details>
 <summary> <strong>🟩 Q. EASY 🔽 </strong> </summary>
   
+  <ul>
   <br/>
 
   <details>
@@ -151,7 +155,7 @@ GOAL : 하루에 한문제 이상의 문제를 풀고 정리하기
 <br/>
 
 
-
+  <ul>
   <details>
     <summary> ⚙️ [FUNCTION TYPE] LIST</summary>
   
@@ -240,7 +244,7 @@ GOAL : 하루에 한문제 이상의 문제를 풀고 정리하기
 <summary>   <strong>🟥 Q. HARD 🔽 </strong> </summary>
 <br/>
 
-
+  <ul>
   <details>
     <summary> ⚙️ [FUNCTION TYPE] LIST</summary>  
 
