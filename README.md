@@ -1,45 +1,27 @@
-# NASA1515의 LeetCode 기반의 SQL STORAGE
-
-[![Watch on GitHub](https://img.shields.io/github/watchers/nasa1515/Learn_SQL_From_Reetcode.svg?style=social)](https://github.com/nasa1515/Learn_SQL_From_Reetcode/watchers)
-[![Star on GitHub](https://img.shields.io/github/stars/nasa1515/Learn_SQL_From_Reetcode.svg?style=social)](https://github.com/nasa1515/Learn_SQL_From_Reetcode/stargazers)
-[![Fork on GitHub](https://img.shields.io/github/forks/nasa1515/Learn_SQL_From_Reetcode.svg?style=social)](https://github.com/nasa1515/Learn_SQL_From_Reetcode/network/members)
-[![Fork on GitHub](https://img.shields.io/github/followers/nasa1515.svg?style=social)](https://github.com/nasa1515/Learn_SQL_From_Reetcode/network/members)
+# SQL LEARN STORAGE OF NASA1515
 
 <img src="./Resource/Reet_ReadMe.jpg" alt="이미지 설명" width="700" height="450"/>
 
-경험하고 학습한 SQL과 관련된 내용을 정리하고, LeetCode의 SQL로 문제를 정리한 대피소입니다.    
-* 기초 베이스부터 다지기 위해서 쌩 Base를 기반으로 작성하는 대피소 입니다.
-* 단순히 답만 띡 던져놓는 방식이 아닌, 각 문제 별 MD로 풀이를 정리합니다.
+경험하고 학습했던 SQL 관련 내용을 정리하고, LeetCode 기반의 SQL 문제를 정리한 저장소 입니다.    
+* 기초 단계 Base부터 시작하는 지식 저장소 입니다.
+* 문제의 경우 답만 띡 던져놓는 방식 보다는, 문제 풀이를 정리하는 방식을 지향합니다.
 
 
 ---
 
+<span style="color: orange; font-size: 22px;">Start_Date : 2024.07.09</span>  
+<span style="color: green; font-size: 17px;">GOAL : 하루에 한문제 이상의 문제를 풀고 정리하기</span>  
 
-### Start_Date : 2024.07.09
-#### GOAL : 적어도 하루에 한문제의 SQL 문제를 풀고 정리하기
+<img src="https://leetcode.card.workers.dev/nasa1515?theme=wtf&font=&extension=activity" width="70%" />
 
-### HISTORY
-|Date|solved|increase|
-|----|------|--------|
-|2024.07.10|solved 22| +10|
-|2024.07.11|solved 32| +10|
-|2024.07.12|solved 42| +10|
-|2024.07.15|solved 52| +10|
-|2024.07.16|solved 60| +8|
-|2024.07.17|solved 70| +10|
-|2024.07.18|solved 72| +2|
-|2024.07.19|solved 75| +3|
-|2024.07.22|solved 78| +3|
-|2024.07.23|solved 81| +3|
-|2024.08.01|(프리미엄 결제) - solved 82| +1|
-|2024.08.02|solved 86| +4|
-|2024.08.03|solved 87| +1|
-|2024.08.05|solved 90| +3|
-|2024.08.06|solved 93| +3|
-|2024.08.07|solved 95| +2|
-|2024.08.08|solved 96| +1|
-|2024.08.09|solved 97| +1|
 
+<br/>
+<br/>
+<br/>
+
+<details>
+  <summary style="font-size: 20px;"> 💾 문제 모음집 💾</summary>
+  
 ## 🟩 Easy
 
 <details>
@@ -49,7 +31,6 @@
   * [1795. Rearrange Products Table](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Function%20Type/EASY/1795.%20Rearrange%20Products%20Table.md)
   
 </details>
-
 
 <details>
     <summary> 📁 [CASE WHEN TYPE] LIST</summary>
@@ -206,8 +187,8 @@
   * [574. Winning Candidate](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Join%20Type/MEDIUM/574.%20Winning%20Candidate.md)  
   * [1132. Reported Posts II](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Join%20Type/MEDIUM/1132.%20Reported%20Posts%20II.md)
   * [1158. Market Analysis I](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Join%20Type/MEDIUM/1158.%20Market%20Analysis%20I.md)  
-  * [1212. Team Scores in Football Tournament]()  
-  * [1270. All People Report to the Given Manager]()  
+  * [1212. Team Scores in Football Tournament](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Join%20Type/MEDIUM/1212.%20Team%20Scores%20in%20Football%20Tournament.md)  
+  * [1270. All People Report to the Given Manager](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Join%20Type/MEDIUM/1270.%20All%20People%20Report%20to%20the%20Given%20Manager.md)  
   * [1393. Capital Gain-Loss](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Join%20Type/MEDIUM/1393.%20Capital%20Gain-Loss.md)  
 
 </details>
@@ -228,8 +209,8 @@
   * [602. Friend Requests II: Who Has the Most Friends](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20CTE%20Type/MEDIUM/602.%20Friend%20Requests%20II%3A%20Who%20Has%20the%20Most%20Friends.md)   
   * [1164. Product Price at a Given Date](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20CTE%20Type/MEDIUM/1164.%20Product%20Price%20at%20a%20Given%20Date.md)
   * [1204. Last Person to Fit in the Bus](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20CTE%20Type/MEDIUM/1204.%20Last%20Person%20to%20Fit%20in%20the%20Bus.md)
-  * [1205. Monthly Transactions II]()
-  * [1264. Page Recommendations]()  
+  * [1205. Monthly Transactions II](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20CTE%20Type/MEDIUM/1205.%20Monthly%20Transactions%20II.md)  
+  * [1264. Page Recommendations](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20CTE%20Type/MEDIUM/1264.%20Page%20Recommendations.md)  
 
 </details>
 
@@ -253,3 +234,6 @@
 
 </details>
 
+
+
+</details>
