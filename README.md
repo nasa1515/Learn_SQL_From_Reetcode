@@ -27,12 +27,12 @@ GOAL : 하루에 한문제 이상의 문제를 풀고 정리하기
 <br/>
 
 <details>
-<summary style="font-size: 20px;"> 💾 문제 모음집 💾</summary>
+<summary> <u>**💾 문제 모음집**<u> 🔽</summary>
   
   <br/>
 
 <details>
-<summary style="font-size: 20px;">🟩 Easy</summary>
+<summary> ### 🟩 Easy 🔽 </summary>
   
   <br/>
 
