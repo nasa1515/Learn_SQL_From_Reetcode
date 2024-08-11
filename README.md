@@ -38,7 +38,7 @@ GOAL : 하루에 한문제 이상의 문제를 풀고 정리하기
 <details>
 <summary> <strong>문제 모음집 🔽</strong></summary>
   
-  <br/>
+<br/>
 
 <ul>
 <details>
@@ -169,6 +169,7 @@ GOAL : 하루에 한문제 이상의 문제를 풀고 정리하기
   * [(WINDOW) 1077. Project Employees III](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Function%20Type/MEDIUM/1077.%20Project%20Employees%20III.md)  
   * [1126. Active Businesses](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Function%20Type/MEDIUM/1126.%20Active%20Businesses.md)  
   * [1112. Highest Grade For Each Student](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Function%20Type/MEDIUM/1112.%20Highest%20Grade%20For%20Each%20Student.md)   
+  * [1308. Running Total for Different Genders]()
   * [(WINDOW) 1321. Restaurant Growth](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Function%20Type/MEDIUM/1321.%20Restaurant%20Growth.md)  
   * [(WINDOW) 1341. Movie Rating](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Function%20Type/MEDIUM/1341.%20Movie%20Rating.md)  
   * [(WINDOW) 1934. Confirmation Rate](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Function%20Type/MEDIUM/1934.%20Confirmation%20Rate.md)   
