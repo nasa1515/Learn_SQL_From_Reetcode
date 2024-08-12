@@ -182,6 +182,7 @@ GOAL : 하루에 한문제 이상의 문제를 풀고 정리하기
     <br/>
 
   * [608. Tree Node](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Case%20when%20Type/MEDIUM/608.%20Tree%20Node.md)    
+  * [1440. Evaluate Boolean Expression]()
   * [1907. Count Salary Categories](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Case%20when%20Type/MEDIUM/1907.%20Count%20Salary%20Categories.md)  
   * [3220. Odd and Even Transactions](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Case%20when%20Type/MEDIUM/3220.%20Odd%20and%20Even%20Transactions.md)  
   </details>
@@ -195,7 +196,8 @@ GOAL : 하루에 한문제 이상의 문제를 풀고 정리하기
   * [1045. Customers Who Bought All Products](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Groupby%20Type/MEDIUM/1045.%20Customers%20Who%20Bought%20All%20Products.md)  
   * [1149. Article Views II](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Groupby%20Type/MEDIUM/1149.%20Article%20Views%20II.md)
   * [1193. Monthly Transactions I](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Groupby%20Type/MEDIUM/1193.%20Monthly%20Transactions%20I.md)  
-  * [1285. Find the Start and End Number of Continuous Ranges]()
+  * [1285. Find the Start and End Number of Continuous Ranges]()  
+  * [1398. Customers Who Bought Products A and B but Not C]()
 
   </details>
 
@@ -227,14 +229,14 @@ GOAL : 하루에 한문제 이상의 문제를 풀고 정리하기
   </details>
 
   <details>
-    <summary> 🔏 [SUBQUERY TYPE] LIST</summary>
+    <summary> 🔏 [SUBQUERY TYPE] LIST</summary
+  </details>>
     <br/>
 
   * [585. Investments in 2016](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20SubQuery%20Type/MEDIUM/585.%20Investments%20in%202016.md)  
   * [1070. Product Sales Analysis III](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20SubQuery%20Type/MEDIUM/1070.%20Product%20Sales%20Analysis%20III.md)
   * [1098. Unpopular Books](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20SubQuery%20Type/MEDIUM/1098.%20Unpopular%20Books.md)  
 
-  </details>
 
   <details>
     <summary> ➕ [CTE TYPE] LIST</summary>
