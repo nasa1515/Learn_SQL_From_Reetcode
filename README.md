@@ -207,7 +207,8 @@ GOAL : 하루에 한문제 이상의 문제를 풀고 정리하기
   * [550. Game Play Analysis IV](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Where%20Type/MEDIUM/550.%20Game%20Play%20Analysis%20IV.md)  
   * [614. Second Degree Follower](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Where%20Type/MEDIUM/614.%20Second%20Degree%20Follower.md)
   * [1174. Immediate Food Delivery II](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Where%20Type/MEDIUM/1174.%20Immediate%20Food%20Delivery%20II.md)  
-
+  * [1355. Activity Participants]()
+  
   </details>
 
   <details>
