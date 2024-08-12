@@ -221,6 +221,7 @@ GOAL : 하루에 한문제 이상의 문제를 풀고 정리하기
   * [1158. Market Analysis I](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Join%20Type/MEDIUM/1158.%20Market%20Analysis%20I.md)  
   * [1212. Team Scores in Football Tournament](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Join%20Type/MEDIUM/1212.%20Team%20Scores%20in%20Football%20Tournament.md)  
   * [1270. All People Report to the Given Manager](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Join%20Type/MEDIUM/1270.%20All%20People%20Report%20to%20the%20Given%20Manager.md)  
+  * [1364. Number of Trusted Contacts of a Customer]()
   * [1393. Capital Gain-Loss](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Join%20Type/MEDIUM/1393.%20Capital%20Gain-Loss.md)  
 
   </details>
