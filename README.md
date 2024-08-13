@@ -114,7 +114,7 @@ GOAL : 하루에 한문제 이상의 문제를 풀고 정리하기
   * [183. Customers Who Never Order](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Join%20Type/EASY/183.%20Customers%20Who%20Never%20Order.md)  
   * [197. Rising Temperature](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Join%20Type/EASY/197.%20Rising%20Temperature.md)  
   * [577. Employee Bonus](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Join%20Type/EASY/577.%20Employee%20Bonus.md)  
-  * [580. Count Student Number in Departments]()  
+  * [580. Count Student Number in Departments](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Join%20Type/MEDIUM/580.%20Count%20Student%20Number%20in%20Departments.md)    
   * [607. Sales Person](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Join%20Type/EASY/607.%20Sales%20Person.md)  
   * [1075. Project Employees I](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Join%20Type/EASY/1075.%20Project%20Employees%20I.md)  
   * [1251. Average Selling Price](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Join%20Type/EASY/1251.%20Average%20Selling%20Price.md) 
@@ -164,15 +164,15 @@ GOAL : 하루에 한문제 이상의 문제를 풀고 정리하기
   * [178. Rank Scores](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Function%20Type/MEDIUM/178.%20Rank%20Scores.md)  
   * [180. Consecutive Numbers](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Function%20Type/MEDIUM/180.%20Consecutive%20Numbers.md)
   * [184. Department Highest Salary](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Function%20Type/MEDIUM/184.%20Department%20Highest%20Salary.md)  
-  * [(WINDOW) 534. Game Play Analysis III](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Function%20Type/MEDIUM/534.%20Game%20Play%20Analysis%20III.md)  
+  * [534. Game Play Analysis III](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Function%20Type/MEDIUM/534.%20Game%20Play%20Analysis%20III.md)  
   * [626. Exchange Seats](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Function%20Type/MEDIUM/626.%20Exchange%20Seats.md)  
-  * [(WINDOW) 1077. Project Employees III](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Function%20Type/MEDIUM/1077.%20Project%20Employees%20III.md)  
+  * [1077. Project Employees III](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Function%20Type/MEDIUM/1077.%20Project%20Employees%20III.md)  
   * [1126. Active Businesses](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Function%20Type/MEDIUM/1126.%20Active%20Businesses.md)  
   * [1112. Highest Grade For Each Student](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Function%20Type/MEDIUM/1112.%20Highest%20Grade%20For%20Each%20Student.md)   
-  * [1308. Running Total for Different Genders]()
-  * [(WINDOW) 1321. Restaurant Growth](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Function%20Type/MEDIUM/1321.%20Restaurant%20Growth.md)  
-  * [(WINDOW) 1341. Movie Rating](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Function%20Type/MEDIUM/1341.%20Movie%20Rating.md)  
-  * [(WINDOW) 1934. Confirmation Rate](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Function%20Type/MEDIUM/1934.%20Confirmation%20Rate.md)   
+  * [1308. Running Total for Different Genders](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Function%20Type/MEDIUM/1308.%20Running%20Total%20for%20Different%20Genders.md)  
+  * [1321. Restaurant Growth](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Function%20Type/MEDIUM/1321.%20Restaurant%20Growth.md)  
+  * [1341. Movie Rating](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Function%20Type/MEDIUM/1341.%20Movie%20Rating.md)  
+  * [1934. Confirmation Rate](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Function%20Type/MEDIUM/1934.%20Confirmation%20Rate.md)   
   
   </details>
 
@@ -182,7 +182,7 @@ GOAL : 하루에 한문제 이상의 문제를 풀고 정리하기
     <br/>
 
   * [608. Tree Node](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Case%20when%20Type/MEDIUM/608.%20Tree%20Node.md)    
-  * [1440. Evaluate Boolean Expression]()
+  * [1440. Evaluate Boolean Expression](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Case%20when%20Type/MEDIUM/1440.%20Evaluate%20Boolean%20Expression.md)  
   * [1907. Count Salary Categories](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Case%20when%20Type/MEDIUM/1907.%20Count%20Salary%20Categories.md)  
   * [3220. Odd and Even Transactions](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Case%20when%20Type/MEDIUM/3220.%20Odd%20and%20Even%20Transactions.md)  
   </details>
@@ -196,8 +196,8 @@ GOAL : 하루에 한문제 이상의 문제를 풀고 정리하기
   * [1045. Customers Who Bought All Products](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Groupby%20Type/MEDIUM/1045.%20Customers%20Who%20Bought%20All%20Products.md)  
   * [1149. Article Views II](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Groupby%20Type/MEDIUM/1149.%20Article%20Views%20II.md)
   * [1193. Monthly Transactions I](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Groupby%20Type/MEDIUM/1193.%20Monthly%20Transactions%20I.md)  
-  * [1285. Find the Start and End Number of Continuous Ranges]()  
-  * [1398. Customers Who Bought Products A and B but Not C]()
+  * [1285. Find the Start and End Number of Continuous Ranges](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Groupby%20Type/MEDIUM/1285.%20Find%20the%20Start%20and%20End%20Number%20of%20Continuous%20Ranges.md)    
+  * [1398. Customers Who Bought Products A and B but Not C](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Groupby%20Type/MEDIUM/1398.%20Customers%20Who%20Bought%20Products%20A%20and%20B%20but%20Not%20C.md)
 
   </details>
 
@@ -209,7 +209,7 @@ GOAL : 하루에 한문제 이상의 문제를 풀고 정리하기
   * [550. Game Play Analysis IV](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Where%20Type/MEDIUM/550.%20Game%20Play%20Analysis%20IV.md)  
   * [614. Second Degree Follower](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Where%20Type/MEDIUM/614.%20Second%20Degree%20Follower.md)
   * [1174. Immediate Food Delivery II](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Where%20Type/MEDIUM/1174.%20Immediate%20Food%20Delivery%20II.md)  
-  * [1355. Activity Participants]()
+  * [1355. Activity Participants](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Where%20Type/MEDIUM/1355.%20Activity%20Participants.md)  
   
   </details>
 
@@ -223,7 +223,7 @@ GOAL : 하루에 한문제 이상의 문제를 풀고 정리하기
   * [1158. Market Analysis I](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Join%20Type/MEDIUM/1158.%20Market%20Analysis%20I.md)  
   * [1212. Team Scores in Football Tournament](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Join%20Type/MEDIUM/1212.%20Team%20Scores%20in%20Football%20Tournament.md)  
   * [1270. All People Report to the Given Manager](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Join%20Type/MEDIUM/1270.%20All%20People%20Report%20to%20the%20Given%20Manager.md)  
-  * [1364. Number of Trusted Contacts of a Customer]()
+  * [1364. Number of Trusted Contacts of a Customer](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Join%20Type/MEDIUM/1364.%20Number%20of%20Trusted%20Contacts%20of%20a%20Customer.md)  
   * [1393. Capital Gain-Loss](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Join%20Type/MEDIUM/1393.%20Capital%20Gain-Loss.md)  
 
   </details>
@@ -276,6 +276,6 @@ GOAL : 하루에 한문제 이상의 문제를 풀고 정리하기
 
   </details>
 
-
+</details>
 </details>
 </details>
