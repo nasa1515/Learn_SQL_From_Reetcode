@@ -172,9 +172,9 @@ GOAL : 하루에 한문제 이상의 문제를 풀고 정리하기
   * [1308. Running Total for Different Genders](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Function%20Type/MEDIUM/1308.%20Running%20Total%20for%20Different%20Genders.md)  
   * [1321. Restaurant Growth](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Function%20Type/MEDIUM/1321.%20Restaurant%20Growth.md)  
   * [1341. Movie Rating](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Function%20Type/MEDIUM/1341.%20Movie%20Rating.md)  
-  * [1445. Apples & Oranges]()    
-  * [ + (Gap & Islands') 1454. Active Users]()  
-  * [1468. Calculate Salaries]()  
+  * [1445. Apples & Oranges](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Function%20Type/MEDIUM/1445.%20Apples%20%26%20Oranges.md)     
+  * [ + ('Gap & Islands') 1454. Active Users](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Function%20Type/MEDIUM/1454.%20Active%20Users.md)    
+  * [1468. Calculate Salaries](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Function%20Type/MEDIUM/1468.%20Calculate%20Salaries.md)   
   * [1934. Confirmation Rate](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Function%20Type/MEDIUM/1934.%20Confirmation%20Rate.md)   
   
   </details>
@@ -228,7 +228,8 @@ GOAL : 하루에 한문제 이상의 문제를 풀고 정리하기
   * [1270. All People Report to the Given Manager](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Join%20Type/MEDIUM/1270.%20All%20People%20Report%20to%20the%20Given%20Manager.md)  
   * [1364. Number of Trusted Contacts of a Customer](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Join%20Type/MEDIUM/1364.%20Number%20of%20Trusted%20Contacts%20of%20a%20Customer.md)  
   * [1393. Capital Gain-Loss](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Join%20Type/MEDIUM/1393.%20Capital%20Gain-Loss.md)   
-  * [1501. Countries You Can Safely Invest In]()
+  * [1501. Countries You Can Safely Invest In](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Join%20Type/MEDIUM/1501.%20Countries%20You%20Can%20Safely%20Invest%20In.md)  
+
   </details>
 
   <details>
