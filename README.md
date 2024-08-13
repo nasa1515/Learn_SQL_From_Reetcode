@@ -172,8 +172,9 @@ GOAL : 하루에 한문제 이상의 문제를 풀고 정리하기
   * [1308. Running Total for Different Genders](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Function%20Type/MEDIUM/1308.%20Running%20Total%20for%20Different%20Genders.md)  
   * [1321. Restaurant Growth](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Function%20Type/MEDIUM/1321.%20Restaurant%20Growth.md)  
   * [1341. Movie Rating](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Function%20Type/MEDIUM/1341.%20Movie%20Rating.md)  
-  * [1445. Apples & Oranges]()  
-  * [ + (Gap & Islands') 1454. Active Users]()
+  * [1445. Apples & Oranges]()    
+  * [ + (Gap & Islands') 1454. Active Users]()  
+  * [1468. Calculate Salaries]()  
   * [1934. Confirmation Rate](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Function%20Type/MEDIUM/1934.%20Confirmation%20Rate.md)   
   
   </details>
