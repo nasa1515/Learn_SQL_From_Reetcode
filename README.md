@@ -63,7 +63,6 @@ GOAL : 하루에 한문제 이상의 문제를 풀고 정리하기
   * [610. Triangle Judgement](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Case%20when%20Type/EASY/610.%20Triangle%20Judgement.md)  
   * [627. Swap Salary](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Case%20when%20Type/EASY/627.%20Swap%20Salary.md)   
   * [1179. Reformat Department Table](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Case%20when%20Type/EASY/1179.%20Reformat%20Department%20Table.md)   
-  * [1555. Bank Account Summary]()  
   * [1873. Calculate Special Bonus](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Case%20when%20Type/EASY/1873.%20Calculate%20Special%20Bonus.md)    
   
   </details>
@@ -178,6 +177,7 @@ GOAL : 하루에 한문제 이상의 문제를 풀고 정리하기
   * [1468. Calculate Salaries](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Function%20Type/MEDIUM/1468.%20Calculate%20Salaries.md)    
   * [1532. The Most Recent Three Orders]()  
   * [1549. The Most Recent Orders for Each Product]()  
+  * [1596. The Most Frequently Ordered Products for Each Customer]()
   * [1934. Confirmation Rate](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Function%20Type/MEDIUM/1934.%20Confirmation%20Rate.md)   
   
   </details>
@@ -189,8 +189,10 @@ GOAL : 하루에 한문제 이상의 문제를 풀고 정리하기
 
   * [608. Tree Node](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Case%20when%20Type/MEDIUM/608.%20Tree%20Node.md)    
   * [1440. Evaluate Boolean Expression](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Case%20when%20Type/MEDIUM/1440.%20Evaluate%20Boolean%20Expression.md)  
+  * [1555. Bank Account Summary]()  
   * [1907. Count Salary Categories](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Case%20when%20Type/MEDIUM/1907.%20Count%20Salary%20Categories.md)  
   * [3220. Odd and Even Transactions](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Case%20when%20Type/MEDIUM/3220.%20Odd%20and%20Even%20Transactions.md)  
+  
   </details>
 
   <details>
