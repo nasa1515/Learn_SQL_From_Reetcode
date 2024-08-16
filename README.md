@@ -175,11 +175,11 @@ GOAL : 하루에 한문제 이상의 문제를 풀고 정리하기
   * [1445. Apples & Oranges](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Function%20Type/MEDIUM/1445.%20Apples%20%26%20Oranges.md)     
   * [ + ('Gap & Islands') 1454. Active Users](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Function%20Type/MEDIUM/1454.%20Active%20Users.md)    
   * [1468. Calculate Salaries](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Function%20Type/MEDIUM/1468.%20Calculate%20Salaries.md)    
-  * [1532. The Most Recent Three Orders]()  
-  * [1549. The Most Recent Orders for Each Product]()  
-  * [1596. The Most Frequently Ordered Products for Each Customer]()  
-  * [+ ('Recursive') 1613. Find the Missing IDs]()  
-  * [1699. Number of Calls Between Two Persons]()
+  * [1532. The Most Recent Three Orders](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Function%20Type/MEDIUM/1532.%20The%20Most%20Recent%20Three%20Orders.md)  
+  * [1549. The Most Recent Orders for Each Product](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Function%20Type/MEDIUM/1549.%20The%20Most%20Recent%20Orders%20for%20Each%20Product.md)  
+  * [1596. The Most Frequently Ordered Products for Each Customer](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Function%20Type/MEDIUM/1596.%20The%20Most%20Frequently%20Ordered%20Products%20for%20Each%20Customer.md)  
+  * [+ ('Recursive') 1613. Find the Missing IDs](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Function%20Type/MEDIUM/1613.%20Find%20the%20Missing%20IDs.md)  
+  * [1699. Number of Calls Between Two Persons](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Function%20Type/MEDIUM/1699.%20Number%20of%20Calls%20Between%20Two%20Persons.md)
   * [1934. Confirmation Rate](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Function%20Type/MEDIUM/1934.%20Confirmation%20Rate.md)   
   
   </details>
@@ -191,7 +191,7 @@ GOAL : 하루에 한문제 이상의 문제를 풀고 정리하기
 
   * [608. Tree Node](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Case%20when%20Type/MEDIUM/608.%20Tree%20Node.md)    
   * [1440. Evaluate Boolean Expression](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Case%20when%20Type/MEDIUM/1440.%20Evaluate%20Boolean%20Expression.md)  
-  * [1555. Bank Account Summary]()  
+  * [1555. Bank Account Summary](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Case%20when%20Type/MEDIUM/1555.%20Bank%20Account%20Summary.md)  
   * [1907. Count Salary Categories](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Case%20when%20Type/MEDIUM/1907.%20Count%20Salary%20Categories.md)  
   * [3220. Odd and Even Transactions](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Case%20when%20Type/MEDIUM/3220.%20Odd%20and%20Even%20Transactions.md)  
   
@@ -261,6 +261,7 @@ GOAL : 하루에 한문제 이상의 문제를 풀고 정리하기
 
   </details>
 
+</details>
 </details>
 
 <br/>
