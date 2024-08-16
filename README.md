@@ -178,7 +178,7 @@ GOAL : 하루에 한문제 이상의 문제를 풀고 정리하기
   * [1532. The Most Recent Three Orders](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Function%20Type/MEDIUM/1532.%20The%20Most%20Recent%20Three%20Orders.md)  
   * [1549. The Most Recent Orders for Each Product](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Function%20Type/MEDIUM/1549.%20The%20Most%20Recent%20Orders%20for%20Each%20Product.md)  
   * [1596. The Most Frequently Ordered Products for Each Customer](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Function%20Type/MEDIUM/1596.%20The%20Most%20Frequently%20Ordered%20Products%20for%20Each%20Customer.md)  
-  * [+ ('Recursive') 1613. Find the Missing IDs](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Function%20Type/MEDIUM/1613.%20Find%20the%20Missing%20IDs.md)  
+  * [ + ('Recursive') 1613. Find the Missing IDs](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Function%20Type/MEDIUM/1613.%20Find%20the%20Missing%20IDs.md)  
   * [1699. Number of Calls Between Two Persons](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Function%20Type/MEDIUM/1699.%20Number%20of%20Calls%20Between%20Two%20Persons.md)
   * [1934. Confirmation Rate](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Function%20Type/MEDIUM/1934.%20Confirmation%20Rate.md)   
   
@@ -276,7 +276,8 @@ GOAL : 하루에 한문제 이상의 문제를 풀고 정리하기
     <br/>
 
   * [185. Department Top Three Salaries](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Function%20Type/HARD/185.%20Department%20Top%20Three%20Salaries.md)  
-  * [601. Human Traffic of Stadium](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Function%20Type/HARD/601.%20Human%20Traffic%20of%20Stadium.md)  
+  * [601. Human Traffic of Stadium](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Function%20Type/HARD/601.%20Human%20Traffic%20of%20Stadium.md)   
+  * [ + ('PIVOT')  618. Students Report By Geography]()
 
   </details>
 
