@@ -177,7 +177,8 @@ GOAL : 하루에 한문제 이상의 문제를 풀고 정리하기
   * [1468. Calculate Salaries](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Function%20Type/MEDIUM/1468.%20Calculate%20Salaries.md)    
   * [1532. The Most Recent Three Orders]()  
   * [1549. The Most Recent Orders for Each Product]()  
-  * [1596. The Most Frequently Ordered Products for Each Customer]()
+  * [1596. The Most Frequently Ordered Products for Each Customer]()  
+  * [+ ('Recursive') 1613. Find the Missing IDs]()
   * [1934. Confirmation Rate](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Function%20Type/MEDIUM/1934.%20Confirmation%20Rate.md)   
   
   </details>
