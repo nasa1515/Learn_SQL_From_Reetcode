@@ -282,8 +282,9 @@ GOAL : 하루에 한문제 이상의 문제를 풀고 정리하기
   * [601. Human Traffic of Stadium](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Function%20Type/HARD/601.%20Human%20Traffic%20of%20Stadium.md)   
   * [615. Average Salary: Departments VS Company]()
   * [ + ('PIVOT')  618. Students Report By Geography](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Function%20Type/HARD/618.%20Students%20Report%20By%20Geography.md)  
-  * [1097. Game Play Analysis V]()  
-  
+  * [1097. Game Play Analysis V]()   
+  * [1159. Market Analysis II]()
+
   </details>
 
   <details>
