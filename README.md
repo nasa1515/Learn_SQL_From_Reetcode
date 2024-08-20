@@ -181,7 +181,7 @@ GOAL : 하루에 한문제 이상의 문제를 풀고 정리하기
   * [ + ('Recursive') 1613. Find the Missing IDs](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Function%20Type/MEDIUM/1613.%20Find%20the%20Missing%20IDs.md)  
   * [1699. Number of Calls Between Two Persons](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Function%20Type/MEDIUM/1699.%20Number%20of%20Calls%20Between%20Two%20Persons.md)  
   * [1709. Biggest Window Between Visits](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Function%20Type/MEDIUM/1709.%20Biggest%20Window%20Between%20Visits.md)  
-  * [1715. Count Apples and Oranges]()
+  * [1715. Count Apples and Oranges](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Function%20Type/MEDIUM/1715.%20Count%20Apples%20and%20Oranges.md)  
   * [1934. Confirmation Rate](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Function%20Type/MEDIUM/1934.%20Confirmation%20Rate.md)   
   
   </details>
@@ -238,7 +238,7 @@ GOAL : 하루에 한문제 이상의 문제를 풀고 정리하기
   * [1364. Number of Trusted Contacts of a Customer](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Join%20Type/MEDIUM/1364.%20Number%20of%20Trusted%20Contacts%20of%20a%20Customer.md)  
   * [1393. Capital Gain-Loss](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Join%20Type/MEDIUM/1393.%20Capital%20Gain-Loss.md)   
   * [1501. Countries You Can Safely Invest In](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Join%20Type/MEDIUM/1501.%20Countries%20You%20Can%20Safely%20Invest%20In.md)  
-  * [1747. Leetflex Banned Accounts]()
+  * [1747. Leetflex Banned Accounts](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Join%20Type/MEDIUM/1747.%20Leetflex%20Banned%20Accounts.md)  
   
   </details>
 
@@ -280,10 +280,10 @@ GOAL : 하루에 한문제 이상의 문제를 풀고 정리하기
 
   * [185. Department Top Three Salaries](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Function%20Type/HARD/185.%20Department%20Top%20Three%20Salaries.md)  
   * [601. Human Traffic of Stadium](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Function%20Type/HARD/601.%20Human%20Traffic%20of%20Stadium.md)   
-  * [615. Average Salary: Departments VS Company]()
+  * [615. Average Salary: Departments VS Company](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Function%20Type/HARD/615.%20Average%20Salary%3A%20Departments%20VS%20Company.md)
   * [ + ('PIVOT')  618. Students Report By Geography](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Function%20Type/HARD/618.%20Students%20Report%20By%20Geography.md)  
-  * [1097. Game Play Analysis V]()   
-  * [1159. Market Analysis II]()
+  * [1097. Game Play Analysis V](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Function%20Type/HARD/1097.%20Game%20Play%20Analysis%20V.md)   
+  * [1159. Market Analysis II](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Function%20Type/HARD/1159.%20Market%20Analysis%20II.md)
 
   </details>
 
