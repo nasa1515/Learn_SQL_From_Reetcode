@@ -181,6 +181,7 @@ GOAL : 하루에 한문제 이상의 문제를 풀고 정리하기
   * [ + ('Recursive') 1613. Find the Missing IDs](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Function%20Type/MEDIUM/1613.%20Find%20the%20Missing%20IDs.md)  
   * [1699. Number of Calls Between Two Persons](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Function%20Type/MEDIUM/1699.%20Number%20of%20Calls%20Between%20Two%20Persons.md)  
   * [1709. Biggest Window Between Visits](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Function%20Type/MEDIUM/1709.%20Biggest%20Window%20Between%20Visits.md)  
+  * [1715. Count Apples and Oranges]()
   * [1934. Confirmation Rate](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Function%20Type/MEDIUM/1934.%20Confirmation%20Rate.md)   
   
   </details>
