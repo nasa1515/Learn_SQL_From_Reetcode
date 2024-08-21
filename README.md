@@ -296,6 +296,15 @@ GOAL : 하루에 한문제 이상의 문제를 풀고 정리하기
 
   </details>
 
+
+  <details>
+    <summary> ✂️ [JOIN TYPE] LIST</summary>
+    <br/>
+
+  * [570. Managers with at Least 5 Direct Reports]()  
+
+  </details>
+
 </details>
 </details>
 </details>
