@@ -279,6 +279,7 @@ GOAL : 하루에 한문제 이상의 문제를 풀고 정리하기
     <br/>
 
   * [185. Department Top Three Salaries](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Function%20Type/HARD/185.%20Department%20Top%20Three%20Salaries.md)  
+  * [569. Median Employee Salary]()  
   * [601. Human Traffic of Stadium](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Function%20Type/HARD/601.%20Human%20Traffic%20of%20Stadium.md)   
   * [615. Average Salary: Departments VS Company](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Function%20Type/HARD/615.%20Average%20Salary%3A%20Departments%20VS%20Company.md)
   * [ + ('PIVOT')  618. Students Report By Geography](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Function%20Type/HARD/618.%20Students%20Report%20By%20Geography.md)  
