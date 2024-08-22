@@ -210,7 +210,7 @@ GOAL : 하루에 한문제 이상의 문제를 풀고 정리하기
   * [1193. Monthly Transactions I](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Groupby%20Type/MEDIUM/1193.%20Monthly%20Transactions%20I.md)  
   * [1285. Find the Start and End Number of Continuous Ranges](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Groupby%20Type/MEDIUM/1285.%20Find%20the%20Start%20and%20End%20Number%20of%20Continuous%20Ranges.md)    
   * [1398. Customers Who Bought Products A and B but Not C](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Groupby%20Type/MEDIUM/1398.%20Customers%20Who%20Bought%20Products%20A%20and%20B%20but%20Not%20C.md)  
-  * [1811. Find Interview Candidates]()   
+  * [1811. Find Interview Candidates](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Groupby%20Type/MEDIUM/1811.%20Find%20Interview%20Candidates.md)   
 
   </details>
 
@@ -240,7 +240,7 @@ GOAL : 하루에 한문제 이상의 문제를 풀고 정리하기
   * [1393. Capital Gain-Loss](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Join%20Type/MEDIUM/1393.%20Capital%20Gain-Loss.md)   
   * [1501. Countries You Can Safely Invest In](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Join%20Type/MEDIUM/1501.%20Countries%20You%20Can%20Safely%20Invest%20In.md)  
   * [1747. Leetflex Banned Accounts](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Join%20Type/MEDIUM/1747.%20Leetflex%20Banned%20Accounts.md)  
-  * [1783. Grand Slam Titles]()  
+  * [1783. Grand Slam Titles](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Join%20Type/MEDIUM/1783.%20Grand%20Slam%20Titles.md)    
   
   </details>
 
@@ -287,7 +287,7 @@ GOAL : 하루에 한문제 이상의 문제를 풀고 정리하기
   * [ + ('PIVOT')  618. Students Report By Geography](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Function%20Type/HARD/618.%20Students%20Report%20By%20Geography.md)  
   * [1097. Game Play Analysis V](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Function%20Type/HARD/1097.%20Game%20Play%20Analysis%20V.md)   
   * [1159. Market Analysis II](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Function%20Type/HARD/1159.%20Market%20Analysis%20II.md)   
-  * [ + ('RANK 응용')  1194. Tournament Winners]()  
+  * [ + ('RANK 응용')  1194. Tournament Winners](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Function%20Type/HARD/1194.%20Tournament%20Winners.md)  
 
   </details>
 
