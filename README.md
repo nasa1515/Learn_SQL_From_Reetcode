@@ -239,6 +239,7 @@ GOAL : 하루에 한문제 이상의 문제를 풀고 정리하기
   * [1393. Capital Gain-Loss](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Join%20Type/MEDIUM/1393.%20Capital%20Gain-Loss.md)   
   * [1501. Countries You Can Safely Invest In](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Join%20Type/MEDIUM/1501.%20Countries%20You%20Can%20Safely%20Invest%20In.md)  
   * [1747. Leetflex Banned Accounts](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Join%20Type/MEDIUM/1747.%20Leetflex%20Banned%20Accounts.md)  
+  * [1783. Grand Slam Titles]()  
   
   </details>
 
