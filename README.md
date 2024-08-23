@@ -287,7 +287,8 @@ GOAL : 하루에 한문제 이상의 문제를 풀고 정리하기
   * [ + ('PIVOT')  618. Students Report By Geography](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Function%20Type/HARD/618.%20Students%20Report%20By%20Geography.md)  
   * [1097. Game Play Analysis V](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Function%20Type/HARD/1097.%20Game%20Play%20Analysis%20V.md)   
   * [1159. Market Analysis II](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Function%20Type/HARD/1159.%20Market%20Analysis%20II.md)   
-  * [ + ('RANK 응용')  1194. Tournament Winners](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Function%20Type/HARD/1194.%20Tournament%20Winners.md)  
+  * [ + ('RANK 응용')  1194. Tournament Winners](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Function%20Type/HARD/1194.%20Tournament%20Winners.md)   
+  * [ + ('연속성 집계') 225. Report Contiguous Dates]()  
 
   </details>
 
