@@ -289,7 +289,7 @@ GOAL : 하루에 한문제 이상의 문제를 풀고 정리하기
   * [1097. Game Play Analysis V](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Function%20Type/HARD/1097.%20Game%20Play%20Analysis%20V.md)   
   * [1159. Market Analysis II](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Function%20Type/HARD/1159.%20Market%20Analysis%20II.md)   
   * [ + ('RANK 응용')  1194. Tournament Winners](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Function%20Type/HARD/1194.%20Tournament%20Winners.md)   
-  * [ + ('재귀') 1384. Total Sales Amount by Year]()
+  * [ + ('재귀') 1384. Total Sales Amount by Year](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Function%20Type/HARD/1384.%20Total%20Sales%20Amount%20by%20Year.md)  
 
 
   </details>
