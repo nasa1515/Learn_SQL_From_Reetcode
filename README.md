@@ -182,6 +182,7 @@ GOAL : 하루에 한문제 이상의 문제를 풀고 정리하기
   * [1699. Number of Calls Between Two Persons](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Function%20Type/MEDIUM/1699.%20Number%20of%20Calls%20Between%20Two%20Persons.md)  
   * [1709. Biggest Window Between Visits](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Function%20Type/MEDIUM/1709.%20Biggest%20Window%20Between%20Visits.md)  
   * [1715. Count Apples and Oranges](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Function%20Type/MEDIUM/1715.%20Count%20Apples%20and%20Oranges.md)  
+  * [1831. Maximum Transaction Each Day]()  
   * [1934. Confirmation Rate](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Function%20Type/MEDIUM/1934.%20Confirmation%20Rate.md)   
   
   </details>
@@ -289,6 +290,7 @@ GOAL : 하루에 한문제 이상의 문제를 풀고 정리하기
   * [1097. Game Play Analysis V](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Function%20Type/HARD/1097.%20Game%20Play%20Analysis%20V.md)   
   * [1159. Market Analysis II](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Function%20Type/HARD/1159.%20Market%20Analysis%20II.md)   
   * [ + ('RANK 응용')  1194. Tournament Winners](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Function%20Type/HARD/1194.%20Tournament%20Winners.md)   
+  * [1369. Get the Second Most Recent Activity]()
   * [ + ('재귀') 1384. Total Sales Amount by Year](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Function%20Type/HARD/1384.%20Total%20Sales%20Amount%20by%20Year.md)  
 
 
