@@ -183,6 +183,7 @@ GOAL : 하루에 한문제 이상의 문제를 풀고 정리하기
   * [1709. Biggest Window Between Visits](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Function%20Type/MEDIUM/1709.%20Biggest%20Window%20Between%20Visits.md)  
   * [1715. Count Apples and Oranges](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Function%20Type/MEDIUM/1715.%20Count%20Apples%20and%20Oranges.md)  
   * [1831. Maximum Transaction Each Day](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Function%20Type/MEDIUM/1831.%20Maximum%20Transaction%20Each%20Day.md)  
+  * [1867. Orders With Maximum Quantity Above Average](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Function%20Type/MEDIUM/1867.%20Orders%20With%20Maximum%20Quantity%20Above%20Average.md)  
   * [1934. Confirmation Rate](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Function%20Type/MEDIUM/1934.%20Confirmation%20Rate.md)   
   
   </details>
