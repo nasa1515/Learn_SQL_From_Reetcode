@@ -186,7 +186,7 @@ GOAL : 하루에 한문제 이상의 문제를 풀고 정리하기
   * [1867. Orders With Maximum Quantity Above Average](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Function%20Type/MEDIUM/1867.%20Orders%20With%20Maximum%20Quantity%20Above%20Average.md)    
   * [1875. Group Employees of the Same Salary](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Function%20Type/MEDIUM/1875.%20Group%20Employees%20of%20the%20Same%20Salary.md)  
   * [1934. Confirmation Rate](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Function%20Type/MEDIUM/1934.%20Confirmation%20Rate.md)   
-  * [3140. Consecutive Available Seats II]()
+  * [3140. Consecutive Available Seats II](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Function%20Type/MEDIUM/3140.%20Consecutive%20Available%20Seats%20II.md)
   
   </details>
 
@@ -295,7 +295,7 @@ GOAL : 하루에 한문제 이상의 문제를 풀고 정리하기
   * [ + ('RANK 응용')  1194. Tournament Winners](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Function%20Type/HARD/1194.%20Tournament%20Winners.md)   
   * [1369. Get the Second Most Recent Activity](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Function%20Type/HARD/1369.%20Get%20the%20Second%20Most%20Recent%20Activity.md)
   * [ + ('재귀') 1384. Total Sales Amount by Year](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Function%20Type/HARD/1384.%20Total%20Sales%20Amount%20by%20Year.md)  
-  * [3214. Year on Year Growth Rate]()
+  * [3214. Year on Year Growth Rate](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Function%20Type/HARD/3214.%20Year%20on%20Year%20Growth%20Rate.md)
 
   </details>
 
