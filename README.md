@@ -294,7 +294,7 @@ GOAL : 하루에 한문제 이상의 문제를 풀고 정리하기
   * [ + ('RANK 응용')  1194. Tournament Winners](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Function%20Type/HARD/1194.%20Tournament%20Winners.md)   
   * [1369. Get the Second Most Recent Activity](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Function%20Type/HARD/1369.%20Get%20the%20Second%20Most%20Recent%20Activity.md)
   * [ + ('재귀') 1384. Total Sales Amount by Year](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Function%20Type/HARD/1384.%20Total%20Sales%20Amount%20by%20Year.md)  
-
+  * [3214. Year on Year Growth Rate]()
 
   </details>
 
