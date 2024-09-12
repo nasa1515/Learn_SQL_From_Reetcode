@@ -186,7 +186,7 @@ GOAL : 하루에 한문제 이상의 문제를 풀고 정리하기
   * [1867. Orders With Maximum Quantity Above Average](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Function%20Type/MEDIUM/1867.%20Orders%20With%20Maximum%20Quantity%20Above%20Average.md)    
   * [1875. Group Employees of the Same Salary](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Function%20Type/MEDIUM/1875.%20Group%20Employees%20of%20the%20Same%20Salary.md)  
   * [1934. Confirmation Rate](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Function%20Type/MEDIUM/1934.%20Confirmation%20Rate.md)   
-  * [2066. Account Balance]()  
+  * [2066. Account Balance](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Function%20Type/MEDIUM/2066.%20Account%20Balance.md)  
   * [3140. Consecutive Available Seats II](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20Function%20Type/MEDIUM/3140.%20Consecutive%20Available%20Seats%20II.md)
   
   </details>
