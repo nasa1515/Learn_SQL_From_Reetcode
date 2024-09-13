@@ -270,7 +270,7 @@ GOAL : 하루에 한문제 이상의 문제를 풀고 정리하기
   * [1204. Last Person to Fit in the Bus](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20CTE%20Type/MEDIUM/1204.%20Last%20Person%20to%20Fit%20in%20the%20Bus.md)
   * [1205. Monthly Transactions II](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20CTE%20Type/MEDIUM/1205.%20Monthly%20Transactions%20II.md)  
   * [1264. Page Recommendations](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20CTE%20Type/MEDIUM/1264.%20Page%20Recommendations.md)  
-  * [2988. Manager of the Largest Department]()  
+  * [2988. Manager of the Largest Department](https://github.com/nasa1515/Learn_SQL_From_Reetcode/blob/main/ReetCode_SQL_Quiz_Summary/Q.%20CTE%20Type/MEDIUM/2988.%20Manager%20of%20the%20Largest%20Department.mD)  
 
   </details>
 
